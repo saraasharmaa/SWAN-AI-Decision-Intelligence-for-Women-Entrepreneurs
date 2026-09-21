@@ -1,0 +1,505 @@
+Country,Year,Gender,Type Of Residence,Type Of Technical Training,"Estimated Persons (UOM:Number), Scaling Factor:1","Percentage Distribution (UOM:%(Percentage)), Scaling Factor:1","Sample Persons (UOM:Number), Scaling Factor:1"
+India,"PLFS Year (Jul - Jun), 2023",Male,Urban,Vocational/Technical Training Received_Formal,,6.5,1548
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural,Vocational/Technical Training Received_Formal,,3.9,2579
+India,"PLFS Year (Jul - Jun), 2023",Female,Urban,Vocational/Technical Training Received_Formal,,7.8,1636
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural,Vocational/Technical Training Received_Formal,,3.8,1242
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural+Urban,Vocational/Technical Training Received_Formal,,5.0,2878
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural,Vocational/Technical Training Received_Formal,,4.0,1337
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural+Urban,Vocational/Technical Training Received_Formal,,4.8,2885
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural+Urban,Vocational/Technical Training Received_Formal,,4.9,5763
+India,"PLFS Year (Jul - Jun), 2023",Persons,Urban,Vocational/Technical Training Received_Formal,,7.1,3184
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,5.8,2687
+India,"PLFS Year (Jul - Jun), 2023",Male,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,1.8,445
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,,9.9,5766
+India,"PLFS Year (Jul - Jun), 2023",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,1.5,748
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,,7.7,2384
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,8.9,3827
+India,"PLFS Year (Jul - Jun), 2023",Female,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,1.2,303
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,7.4,6514
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,,12.0,3382
+India,"PLFS Year (Jul - Jun), 2023",Female,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,3.0,766
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,,3.8,1454
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,5.1,6213
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,,5.2,3898
+India,"PLFS Year (Jul - Jun), 2023",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,4.6,2315
+India,"PLFS Year (Jul - Jun), 2023",Male,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,6.1,1549
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,6.5,3993
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,,6.6,2444
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,3.6,2220
+India,"PLFS Year (Jul - Jun), 2023",Female,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,4.1,795
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,7.0,8019
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,9.7,3248
+India,"PLFS Year (Jul - Jun), 2023",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,9.1,3977
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,6.1,4042
+India,"PLFS Year (Jul - Jun), 2023",Male,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,13.6,3182
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,2.9,1589
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,2.4,794
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,10.9,6430
+India,"PLFS Year (Jul - Jun), 2023",Male,Urban,Vocational/Technical Training Received_Other than Formal_Others,,2.4,603
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Others,,1.7,1322
+India,"PLFS Year (Jul - Jun), 2023",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Others,,2.0,1007
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,,1.9,1309
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural,Vocational/Technical Training Received_Other than Formal_Others,,1.7,706
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,,1.8,2329
+India,"PLFS Year (Jul - Jun), 2023",Female,Urban,Vocational/Technical Training Received_Other than Formal_Others,,1.5,404
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural,Vocational/Technical Training Received_Other than Formal_Others,,1.6,616
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,,1.6,1020
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural,Vocational/Technical Training Received_Other than Formal_All,,30.0,9780
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,,28.2,15559
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural,Vocational/Technical Training Received_Other than Formal_All,,22.9,15028
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,,13.9,7516
+India,"PLFS Year (Jul - Jun), 2023",Female,Urban,Vocational/Technical Training Received_Other than Formal_All,,9.7,2268
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural,Vocational/Technical Training Received_Other than Formal_All,,15.6,5248
+India,"PLFS Year (Jul - Jun), 2023",Persons,Urban,Vocational/Technical Training Received_Other than Formal_All,,17.2,8047
+India,"PLFS Year (Jul - Jun), 2023",Male,Urban,Vocational/Technical Training Received_Other than Formal_All,,24.0,5779
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,,21.2,23075
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,,18.9,10394
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural,Vocational/Technical Training Received_Formal & Other than Formal,,26.8,17607
+India,"PLFS Year (Jul - Jun), 2023",Male,Urban,Vocational/Technical Training Received_Formal & Other than Formal,,30.5,7327
+India,"PLFS Year (Jul - Jun), 2023",Persons,Urban,Vocational/Technical Training Received_Formal & Other than Formal,,24.3,11231
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,,33.0,18444
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,,26.1,28838
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural,Vocational/Technical Training Received_Formal & Other than Formal,,19.4,6490
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural,Vocational/Technical Training Received_Formal & Other than Formal,,34.1,11117
+India,"PLFS Year (Jul - Jun), 2023",Female,Urban,Vocational/Technical Training Received_Formal & Other than Formal,,17.6,3904
+India,"PLFS Year (Jul - Jun), 2023",Male,Urban,Did not Receive Vocational/ Technical Training,,69.5,16737
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural+Urban,Did not Receive Vocational/ Technical Training,,73.9,80210
+India,"PLFS Year (Jul - Jun), 2023",Persons,Rural,Did not Receive Vocational/ Technical Training,,73.2,45183
+India,"PLFS Year (Jul - Jun), 2023",Persons,Urban,Did not Receive Vocational/ Technical Training,,75.7,35027
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural+Urban,Did not Receive Vocational/ Technical Training,,67.0,37775
+India,"PLFS Year (Jul - Jun), 2023",Male,Rural,Did not Receive Vocational/ Technical Training,,65.9,21038
+India,"PLFS Year (Jul - Jun), 2023",Female,Urban,Did not Receive Vocational/ Technical Training,,82.4,18290
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural+Urban,Did not Receive Vocational/ Technical Training,,81.1,42435
+India,"PLFS Year (Jul - Jun), 2023",Female,Rural,Did not Receive Vocational/ Technical Training,,80.6,24145
+India,"PLFS Year (Jul - Jun), 2022",Female,Urban,Vocational/Technical Training Received_Formal,,7.3,1577
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural,Vocational/Technical Training Received_Formal,,3.1,1067
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural,Vocational/Technical Training Received_Formal,,3.4,2383
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural+Urban,Vocational/Technical Training Received_Formal,,4.6,2927
+India,"PLFS Year (Jul - Jun), 2022",Persons,Urban,Vocational/Technical Training Received_Formal,,7.2,3188
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural+Urban,Vocational/Technical Training Received_Formal,,4.4,5571
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural,Vocational/Technical Training Received_Formal,,3.7,1316
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural+Urban,Vocational/Technical Training Received_Formal,,4.2,2644
+India,"PLFS Year (Jul - Jun), 2022",Male,Urban,Vocational/Technical Training Received_Formal,,7.0,1611
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,,8.2,2379
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,,6.5,3907
+India,"PLFS Year (Jul - Jun), 2022",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,1.2,596
+India,"PLFS Year (Jul - Jun), 2022",Female,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,0.7,194
+India,"PLFS Year (Jul - Jun), 2022",Male,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,1.7,402
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,5.1,4503
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,6.4,2781
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,,4.8,1528
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,,3.7,1722
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,3.1,1904
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,4.1,5027
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,,4.2,3118
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,,3.3,1279
+India,"PLFS Year (Jul - Jun), 2022",Male,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,5.0,1284
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,5.0,3123
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,,5.0,1839
+India,"PLFS Year (Jul - Jun), 2022",Female,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,2.6,625
+India,"PLFS Year (Jul - Jun), 2022",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,,3.9,1909
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,5.3,3641
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,1.9,687
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,9.3,5639
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,5.9,6956
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,8.5,2954
+India,"PLFS Year (Jul - Jun), 2022",Female,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,3.1,630
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,2.2,1317
+India,"PLFS Year (Jul - Jun), 2022",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,7.5,3315
+India,"PLFS Year (Jul - Jun), 2022",Male,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,,11.4,2685
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,,1.5,940
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural,Vocational/Technical Training Received_Other than Formal_Others,,1.4,567
+India,"PLFS Year (Jul - Jun), 2022",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Others,,1.9,933
+India,"PLFS Year (Jul - Jun), 2022",Female,Urban,Vocational/Technical Training Received_Other than Formal_Others,,1.7,373
+India,"PLFS Year (Jul - Jun), 2022",Male,Urban,Vocational/Technical Training Received_Other than Formal_Others,,2.1,560
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Others,,1.5,1293
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,,1.6,2226
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural,Vocational/Technical Training Received_Other than Formal_Others,,1.7,726
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,,1.8,1286
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,,22.5,12829
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,,16.6,18712
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,,10.5,5883
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural,Vocational/Technical Training Received_Other than Formal_All,,17.5,11959
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural,Vocational/Technical Training Received_Other than Formal_All,,23.4,7898
+India,"PLFS Year (Jul - Jun), 2022",Male,Urban,Vocational/Technical Training Received_Other than Formal_All,,20.2,4931
+India,"PLFS Year (Jul - Jun), 2022",Female,Urban,Vocational/Technical Training Received_Other than Formal_All,,8.1,1822
+India,"PLFS Year (Jul - Jun), 2022",Persons,Urban,Vocational/Technical Training Received_Other than Formal_All,,14.5,6753
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural,Vocational/Technical Training Received_Other than Formal_All,,11.4,4061
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,,27.1,15756
+India,"PLFS Year (Jul - Jun), 2022",Male,Urban,Vocational/Technical Training Received_Formal & Other than Formal,,27.2,6542
+India,"PLFS Year (Jul - Jun), 2022",Persons,Urban,Vocational/Technical Training Received_Formal & Other than Formal,,21.7,9941
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,,14.7,8527
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural,Vocational/Technical Training Received_Formal & Other than Formal,,14.4,5128
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural,Vocational/Technical Training Received_Formal & Other than Formal,,27.1,9214
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural,Vocational/Technical Training Received_Formal & Other than Formal,,20.8,14342
+India,"PLFS Year (Jul - Jun), 2022",Female,Urban,Vocational/Technical Training Received_Formal & Other than Formal,,15.4,3399
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,,21.1,24283
+India,"PLFS Year (Jul - Jun), 2022",Male,Urban,Did not Receive Vocational/ Technical Training,,72.8,18251
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural,Did not Receive Vocational/ Technical Training,,85.6,25849
+India,"PLFS Year (Jul - Jun), 2022",Persons,Urban,Did not Receive Vocational/ Technical Training,,78.3,37466
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural+Urban,Did not Receive Vocational/ Technical Training,,78.9,87023
+India,"PLFS Year (Jul - Jun), 2022",Persons,Rural,Did not Receive Vocational/ Technical Training,,79.2,49557
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural+Urban,Did not Receive Vocational/ Technical Training,,72.9,41959
+India,"PLFS Year (Jul - Jun), 2022",Male,Rural,Did not Receive Vocational/ Technical Training,,72.9,23708
+India,"PLFS Year (Jul - Jun), 2022",Female,Urban,Did not Receive Vocational/ Technical Training,,84.6,19215
+India,"PLFS Year (Jul - Jun), 2022",Female,Rural+Urban,Did not Receive Vocational/ Technical Training,,85.3,45064
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural,Vocational/Technical Training Received_Formal,65263.0,2.9,2066
+India,"PLFS Year (Jul - Jun), 2021",Male,Urban,Vocational/Technical Training Received_Formal,31972.0,7.0,1465
+India,"PLFS Year (Jul - Jun), 2021",Persons,Urban,Vocational/Technical Training Received_Formal,61106.0,7.1,2895
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural,Vocational/Technical Training Received_Formal,36288.0,3.2,1166
+India,"PLFS Year (Jul - Jun), 2021",Female,Urban,Vocational/Technical Training Received_Formal,29134.0,7.1,1430
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural+Urban,Vocational/Technical Training Received_Formal,126370.0,4.1,4961
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural+Urban,Vocational/Technical Training Received_Formal,68260.0,4.3,2631
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural,Vocational/Technical Training Received_Formal,28976.0,2.7,900
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural+Urban,Vocational/Technical Training Received_Formal,58110.0,3.9,2330
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,56421.0,5.0,1512
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,25954.0,2.4,709
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,27901.0,1.9,862
+India,"PLFS Year (Jul - Jun), 2021",Male,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,5797.0,1.3,322
+India,"PLFS Year (Jul - Jun), 2021",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,7744.0,0.9,475
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,90119.0,2.9,2696
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,62218.0,3.9,1834
+India,"PLFS Year (Jul - Jun), 2021",Female,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,1947.0,0.5,153
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,82375.0,3.7,2221
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,73988.0,3.3,2295
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,36703.0,2.5,1320
+India,"PLFS Year (Jul - Jun), 2021",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,24404.0,2.8,1293
+India,"PLFS Year (Jul - Jun), 2021",Male,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,16858.0,3.7,867
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,29157.0,2.7,894
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,61689.0,3.9,2268
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,44831.0,4.0,1401
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,98392.0,3.2,3588
+India,"PLFS Year (Jul - Jun), 2021",Female,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,7546.0,1.8,426
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,12644.0,1.2,395
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,23143.0,1.5,848
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,111256.0,7.0,4236
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,79358.0,3.6,2489
+India,"PLFS Year (Jul - Jun), 2021",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,55041.0,6.4,2595
+India,"PLFS Year (Jul - Jun), 2021",Female,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,10500.0,2.6,453
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,66714.0,5.9,2094
+India,"PLFS Year (Jul - Jun), 2021",Male,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,44541.0,9.8,2142
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,134399.0,4.4,5084
+India,"PLFS Year (Jul - Jun), 2021",Male,Urban,Vocational/Technical Training Received_Other than Formal_Others,4985.0,1.1,354
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural,Vocational/Technical Training Received_Other than Formal_Others,8057.0,0.7,367
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,13041.0,0.8,721
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural,Vocational/Technical Training Received_Other than Formal_Others,8275.0,0.8,389
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,24589.0,0.8,1346
+India,"PLFS Year (Jul - Jun), 2021",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Others,8257.0,1.0,590
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Others,16331.0,0.7,756
+India,"PLFS Year (Jul - Jun), 2021",Female,Urban,Vocational/Technical Training Received_Other than Formal_Others,3272.0,0.8,236
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,11547.0,0.8,625
+India,"PLFS Year (Jul - Jun), 2021",Persons,Urban,Vocational/Technical Training Received_Other than Formal_All,95446.0,11.1,4953
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,347498.0,11.3,12714
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural,Vocational/Technical Training Received_Other than Formal_All,252052.0,11.4,7761
+India,"PLFS Year (Jul - Jun), 2021",Male,Urban,Vocational/Technical Training Received_Other than Formal_All,72181.0,15.9,3685
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,248204.0,15.7,9059
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural,Vocational/Technical Training Received_Other than Formal_All,176023.0,15.6,5374
+India,"PLFS Year (Jul - Jun), 2021",Female,Urban,Vocational/Technical Training Received_Other than Formal_All,23265.0,5.7,1268
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,99294.0,6.6,3655
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural,Vocational/Technical Training Received_Other than Formal_All,76029.0,7.0,2387
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,473868.0,15.4,17675
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,316463.0,20.0,11690
+India,"PLFS Year (Jul - Jun), 2021",Female,Urban,Vocational/Technical Training Received_Formal & Other than Formal,52400.0,12.8,2698
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,157404.0,10.5,5985
+India,"PLFS Year (Jul - Jun), 2021",Male,Urban,Vocational/Technical Training Received_Formal & Other than Formal,104153.0,23.0,5150
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural,Vocational/Technical Training Received_Formal & Other than Formal,317315.0,14.3,9827
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural,Vocational/Technical Training Received_Formal & Other than Formal,105005.0,9.7,3287
+India,"PLFS Year (Jul - Jun), 2021",Persons,Urban,Vocational/Technical Training Received_Formal & Other than Formal,156553.0,18.1,7848
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural,Vocational/Technical Training Received_Formal & Other than Formal,212310.0,18.8,6540
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural,Did not Receive Vocational/ Technical Training,1895946.0,85.7,57827
+India,"PLFS Year (Jul - Jun), 2021",Persons,Rural+Urban,Did not Receive Vocational/ Technical Training,2602441.0,84.6,98246
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural+Urban,Did not Receive Vocational/ Technical Training,1266398.0,80.0,48485
+India,"PLFS Year (Jul - Jun), 2021",Male,Rural,Did not Receive Vocational/ Technical Training,916834.0,81.2,28465
+India,"PLFS Year (Jul - Jun), 2021",Persons,Urban,Did not Receive Vocational/ Technical Training,706495.0,81.9,40419
+India,"PLFS Year (Jul - Jun), 2021",Female,Urban,Did not Receive Vocational/ Technical Training,356932.0,87.2,20399
+India,"PLFS Year (Jul - Jun), 2021",Male,Urban,Did not Receive Vocational/ Technical Training,349564.0,77.0,20020
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural+Urban,Did not Receive Vocational/ Technical Training,1336043.0,89.5,49761
+India,"PLFS Year (Jul - Jun), 2021",Female,Rural,Did not Receive Vocational/ Technical Training,979112.0,90.3,29362
+India,"PLFS Year (Jul - Jun), 2020",Male,Urban,Vocational/Technical Training Received_Formal,32907.0,7.3,1701
+India,"PLFS Year (Jul - Jun), 2020",Female,Urban,Vocational/Technical Training Received_Formal,26692.0,6.5,1346
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural,Vocational/Technical Training Received_Formal,27026.0,2.6,873
+India,"PLFS Year (Jul - Jun), 2020",Persons,Urban,Vocational/Technical Training Received_Formal,59599.0,6.9,3047
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural+Urban,Vocational/Technical Training Received_Formal,53718.0,3.7,2219
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural+Urban,Vocational/Technical Training Received_Formal,123578.0,4.1,5131
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural,Vocational/Technical Training Received_Formal,36953.0,3.4,1211
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural+Urban,Vocational/Technical Training Received_Formal,69860.0,4.5,2912
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural,Vocational/Technical Training Received_Formal,63980.0,3.0,2084
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,21412.0,2.1,621
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,54019.0,3.5,1561
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,47713.0,4.3,1274
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,69125.0,3.3,1895
+India,"PLFS Year (Jul - Jun), 2020",Male,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,6307.0,1.4,287
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,23252.0,1.6,737
+India,"PLFS Year (Jul - Jun), 2020",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,8146.0,0.9,403
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,77271.0,2.6,2298
+India,"PLFS Year (Jul - Jun), 2020",Female,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,1839.0,0.4,116
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,54371.0,3.5,1817
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,62261.0,2.9,1747
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,34014.0,2.4,1115
+India,"PLFS Year (Jul - Jun), 2020",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,26124.0,3.0,1185
+India,"PLFS Year (Jul - Jun), 2020",Female,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,10265.0,2.5,449
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,38512.0,3.5,1081
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,88385.0,3.0,2932
+India,"PLFS Year (Jul - Jun), 2020",Male,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,15859.0,3.5,736
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,23749.0,2.3,666
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,12190.0,1.2,364
+India,"PLFS Year (Jul - Jun), 2020",Male,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,34250.0,7.6,1736
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,20809.0,1.5,766
+India,"PLFS Year (Jul - Jun), 2020",Female,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,8619.0,2.1,402
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,69160.0,3.3,2168
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,56970.0,5.2,1804
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,112029.0,3.8,4306
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,91220.0,5.9,3540
+India,"PLFS Year (Jul - Jun), 2020",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,42869.0,5.0,2138
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Others,9882.0,0.5,419
+India,"PLFS Year (Jul - Jun), 2020",Male,Urban,Vocational/Technical Training Received_Other than Formal_Others,2341.0,0.5,168
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,7239.0,0.5,364
+India,"PLFS Year (Jul - Jun), 2020",Female,Urban,Vocational/Technical Training Received_Other than Formal_Others,2207.0,0.5,150
+India,"PLFS Year (Jul - Jun), 2020",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Others,4548.0,0.5,318
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural,Vocational/Technical Training Received_Other than Formal_Others,5033.0,0.5,214
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural,Vocational/Technical Training Received_Other than Formal_Others,4849.0,0.4,205
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,14429.0,0.5,737
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,7190.0,0.5,373
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural,Vocational/Technical Training Received_Other than Formal_All,210427.0,9.9,6229
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,206800.0,13.3,7291
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural,Vocational/Technical Training Received_Other than Formal_All,148043.0,13.4,4364
+India,"PLFS Year (Jul - Jun), 2020",Female,Urban,Vocational/Technical Training Received_Other than Formal_All,22930.0,5.6,1117
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,292114.0,9.8,10273
+India,"PLFS Year (Jul - Jun), 2020",Male,Urban,Vocational/Technical Training Received_Other than Formal_All,58757.0,13.0,2927
+India,"PLFS Year (Jul - Jun), 2020",Persons,Urban,Vocational/Technical Training Received_Other than Formal_All,81687.0,9.5,4044
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,85314.0,6.0,2982
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural,Vocational/Technical Training Received_Other than Formal_All,62384.0,6.1,1865
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,276660.0,17.8,10203
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural,Vocational/Technical Training Received_Formal & Other than Formal,89411.0,8.8,2738
+India,"PLFS Year (Jul - Jun), 2020",Female,Urban,Vocational/Technical Training Received_Formal & Other than Formal,49622.0,12.0,2463
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,139032.0,9.7,5201
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural,Vocational/Technical Training Received_Formal & Other than Formal,184997.0,16.8,5575
+India,"PLFS Year (Jul - Jun), 2020",Male,Urban,Vocational/Technical Training Received_Formal & Other than Formal,91664.0,20.3,4628
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural,Vocational/Technical Training Received_Formal & Other than Formal,274407.0,12.9,8313
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,415692.0,13.9,15404
+India,"PLFS Year (Jul - Jun), 2020",Persons,Urban,Vocational/Technical Training Received_Formal & Other than Formal,141285.0,16.4,7091
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural+Urban,Did not Receive Vocational/ Technical Training,2570878.0,86.1,99393
+India,"PLFS Year (Jul - Jun), 2020",Persons,Urban,Did not Receive Vocational/ Technical Training,722095.0,83.6,41397
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural,Did not Receive Vocational/ Technical Training,916638.0,83.2,29355
+India,"PLFS Year (Jul - Jun), 2020",Female,Urban,Did not Receive Vocational/ Technical Training,362354.0,88.0,20587
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural+Urban,Did not Receive Vocational/ Technical Training,1294499.0,90.3,49228
+India,"PLFS Year (Jul - Jun), 2020",Female,Rural,Did not Receive Vocational/ Technical Training,932145.0,91.2,28641
+India,"PLFS Year (Jul - Jun), 2020",Male,Rural+Urban,Did not Receive Vocational/ Technical Training,1276379.0,82.2,50165
+India,"PLFS Year (Jul - Jun), 2020",Male,Urban,Did not Receive Vocational/ Technical Training,359741.0,79.7,20810
+India,"PLFS Year (Jul - Jun), 2020",Persons,Rural,Did not Receive Vocational/ Technical Training,1848782.0,87.1,57996
+India,"PLFS Year (Jul - Jun), 2019",Persons,Urban,Vocational/Technical Training Received_Formal,62468.0,6.8,3107
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural+Urban,Vocational/Technical Training Received_Formal,122102.0,4.1,5216
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural,Vocational/Technical Training Received_Formal,32581.0,3.1,1189
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural,Vocational/Technical Training Received_Formal,27054.0,2.7,920
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural+Urban,Vocational/Technical Training Received_Formal,55811.0,3.8,2349
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural+Urban,Vocational/Technical Training Received_Formal,66292.0,4.3,2867
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural,Vocational/Technical Training Received_Formal,59635.0,2.9,2109
+India,"PLFS Year (Jul - Jun), 2019",Female,Urban,Vocational/Technical Training Received_Formal,28757.0,6.5,1429
+India,"PLFS Year (Jul - Jun), 2019",Male,Urban,Vocational/Technical Training Received_Formal,33710.0,7.0,1678
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,67742.0,2.3,2109
+India,"PLFS Year (Jul - Jun), 2019",Female,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,2845.0,0.6,151
+India,"PLFS Year (Jul - Jun), 2019",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,7483.0,0.8,386
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,19970.0,2.0,605
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,60259.0,2.9,1723
+India,"PLFS Year (Jul - Jun), 2019",Male,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,4637.0,1.0,235
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,22816.0,1.6,756
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,44926.0,2.9,1353
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,40289.0,3.8,1118
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,63421.0,2.1,2257
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,15240.0,1.5,469
+India,"PLFS Year (Jul - Jun), 2019",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,19117.0,2.1,941
+India,"PLFS Year (Jul - Jun), 2019",Female,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,5814.0,1.3,327
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,42367.0,2.7,1461
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,44303.0,2.1,1316
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,29063.0,2.7,847
+India,"PLFS Year (Jul - Jun), 2019",Male,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,13304.0,2.8,614
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,21054.0,1.4,796
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,15656.0,1.1,567
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,52029.0,2.5,1626
+India,"PLFS Year (Jul - Jun), 2019",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,39204.0,4.2,1710
+India,"PLFS Year (Jul - Jun), 2019",Male,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,31136.0,6.5,1395
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,44442.0,4.2,1374
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,75577.0,4.9,2769
+India,"PLFS Year (Jul - Jun), 2019",Female,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,8068.0,1.8,315
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,91233.0,3.0,3336
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,7588.0,0.7,252
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,14834.0,0.5,721
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,7656.0,0.5,366
+India,"PLFS Year (Jul - Jun), 2019",Male,Urban,Vocational/Technical Training Received_Other than Formal_Others,2412.0,0.5,165
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural,Vocational/Technical Training Received_Other than Formal_Others,5111.0,0.5,224
+India,"PLFS Year (Jul - Jun), 2019",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Others,4957.0,0.5,307
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Others,9877.0,0.5,414
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,7178.0,0.5,355
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural,Vocational/Technical Training Received_Other than Formal_Others,4767.0,0.4,190
+India,"PLFS Year (Jul - Jun), 2019",Female,Urban,Vocational/Technical Training Received_Other than Formal_Others,2545.0,0.6,142
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,237230.0,7.9,8423
+India,"PLFS Year (Jul - Jun), 2019",Persons,Urban,Vocational/Technical Training Received_Other than Formal_All,70761.0,7.7,3344
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural,Vocational/Technical Training Received_Other than Formal_All,166469.0,8.0,5079
+India,"PLFS Year (Jul - Jun), 2019",Male,Urban,Vocational/Technical Training Received_Other than Formal_All,51489.0,10.7,2409
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,170049.0,11.0,5938
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural,Vocational/Technical Training Received_Other than Formal_All,118560.0,11.1,3529
+India,"PLFS Year (Jul - Jun), 2019",Female,Urban,Vocational/Technical Training Received_Other than Formal_All,19272.0,4.3,935
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,67181.0,4.6,2485
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural,Vocational/Technical Training Received_Other than Formal_All,47909.0,4.7,1550
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural,Vocational/Technical Training Received_Formal & Other than Formal,151141.0,14.2,4718
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,236340.0,15.3,8805
+India,"PLFS Year (Jul - Jun), 2019",Male,Urban,Vocational/Technical Training Received_Formal & Other than Formal,85199.0,17.8,4087
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,122992.0,8.4,4834
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural,Vocational/Technical Training Received_Formal & Other than Formal,226104.0,10.9,7188
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,359332.0,12.0,13639
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural,Vocational/Technical Training Received_Formal & Other than Formal,74963.0,7.4,2470
+India,"PLFS Year (Jul - Jun), 2019",Persons,Urban,Vocational/Technical Training Received_Formal & Other than Formal,133228.0,14.4,6451
+India,"PLFS Year (Jul - Jun), 2019",Female,Urban,Vocational/Technical Training Received_Formal & Other than Formal,48029.0,10.8,2364
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural+Urban,Did not Receive Vocational/ Technical Training,1335700.0,91.6,51242
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural+Urban,Did not Receive Vocational/ Technical Training,2645820.0,88.0,103373
+India,"PLFS Year (Jul - Jun), 2019",Persons,Urban,Did not Receive Vocational/ Technical Training,790065.0,85.6,43042
+India,"PLFS Year (Jul - Jun), 2019",Female,Rural,Did not Receive Vocational/ Technical Training,940165.0,92.6,29717
+India,"PLFS Year (Jul - Jun), 2019",Female,Urban,Did not Receive Vocational/ Technical Training,395534.0,89.2,21525
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural+Urban,Did not Receive Vocational/ Technical Training,1310120.0,84.7,52131
+India,"PLFS Year (Jul - Jun), 2019",Male,Urban,Did not Receive Vocational/ Technical Training,394531.0,82.2,21517
+India,"PLFS Year (Jul - Jun), 2019",Male,Rural,Did not Receive Vocational/ Technical Training,915589.0,85.8,30614
+India,"PLFS Year (Jul - Jun), 2019",Persons,Rural,Did not Receive Vocational/ Technical Training,1855755.0,89.1,60331
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural+Urban,Vocational/Technical Training Received_Formal,35482.0,2.5,1693
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural+Urban,Vocational/Technical Training Received_Formal,47769.0,3.2,2092
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural,Vocational/Technical Training Received_Formal,15172.0,1.5,648
+India,"PLFS Year (Jul - Jun), 2018",Male,Urban,Vocational/Technical Training Received_Formal,23174.0,4.8,1238
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural+Urban,Vocational/Technical Training Received_Formal,83251.0,2.8,3785
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural,Vocational/Technical Training Received_Formal,39766.0,2.0,1502
+India,"PLFS Year (Jul - Jun), 2018",Persons,Urban,Vocational/Technical Training Received_Formal,43484.0,4.7,2283
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural,Vocational/Technical Training Received_Formal,24595.0,2.4,854
+India,"PLFS Year (Jul - Jun), 2018",Female,Urban,Vocational/Technical Training Received_Formal,20310.0,4.6,1045
+India,"PLFS Year (Jul - Jun), 2018",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,5780.0,0.6,356
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,37894.0,1.3,1415
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,32114.0,1.6,1059
+India,"PLFS Year (Jul - Jun), 2018",Male,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,4106.0,0.9,218
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,27200.0,1.8,906
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,23093.0,2.2,688
+India,"PLFS Year (Jul - Jun), 2018",Female,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,1674.0,0.4,138
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,10694.0,0.7,509
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,9020.0,0.9,371
+India,"PLFS Year (Jul - Jun), 2018",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,17926.0,1.9,846
+India,"PLFS Year (Jul - Jun), 2018",Male,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,12404.0,2.6,551
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,10106.0,1.0,413
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,31998.0,1.6,1212
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,34297.0,2.3,1350
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,21893.0,2.1,799
+India,"PLFS Year (Jul - Jun), 2018",Female,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,5522.0,1.3,295
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,49925.0,1.7,2058
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,15628.0,1.1,708
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,73990.0,2.5,3037
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,33271.0,3.2,1217
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,13852.0,1.0,548
+India,"PLFS Year (Jul - Jun), 2018",Female,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,5847.0,1.3,297
+India,"PLFS Year (Jul - Jun), 2018",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,32714.0,3.6,1569
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,41276.0,2.0,1468
+India,"PLFS Year (Jul - Jun), 2018",Male,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,26867.0,5.6,1272
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,8005.0,0.8,251
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,60138.0,4.0,2489
+India,"PLFS Year (Jul - Jun), 2018",Male,Urban,Vocational/Technical Training Received_Other than Formal_Others,5230.0,1.1,312
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,12730.0,0.9,670
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,12077.0,0.8,664
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,24806.0,0.8,1334
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural,Vocational/Technical Training Received_Other than Formal_Others,6847.0,0.7,352
+India,"PLFS Year (Jul - Jun), 2018",Female,Urban,Vocational/Technical Training Received_Other than Formal_Others,5472.0,1.2,297
+India,"PLFS Year (Jul - Jun), 2018",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Others,10702.0,1.2,609
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Others,14105.0,0.7,725
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural,Vocational/Technical Training Received_Other than Formal_Others,7257.0,0.7,373
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural,Vocational/Technical Training Received_Other than Formal_All,85104.0,8.3,3056
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,186614.0,6.4,7844
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,52903.0,3.7,2435
+India,"PLFS Year (Jul - Jun), 2018",Female,Urban,Vocational/Technical Training Received_Other than Formal_All,18515.0,4.2,1027
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural,Vocational/Technical Training Received_Other than Formal_All,34388.0,3.5,1408
+India,"PLFS Year (Jul - Jun), 2018",Persons,Urban,Vocational/Technical Training Received_Other than Formal_All,67122.0,7.3,3380
+India,"PLFS Year (Jul - Jun), 2018",Male,Urban,Vocational/Technical Training Received_Other than Formal_All,48607.0,10.1,2353
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,133711.0,8.9,5409
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural,Vocational/Technical Training Received_Other than Formal_All,119492.0,5.9,4464
+India,"PLFS Year (Jul - Jun), 2018",Female,Urban,Vocational/Technical Training Received_Formal & Other than Formal,38825.0,8.8,2072
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural,Vocational/Technical Training Received_Formal & Other than Formal,109699.0,10.7,3910
+India,"PLFS Year (Jul - Jun), 2018",Persons,Urban,Vocational/Technical Training Received_Formal & Other than Formal,110607.0,12.0,5663
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural,Vocational/Technical Training Received_Formal & Other than Formal,159259.0,7.9,5966
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,269865.0,9.2,11629
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,88385.0,6.2,4128
+India,"PLFS Year (Jul - Jun), 2018",Male,Urban,Vocational/Technical Training Received_Formal & Other than Formal,71781.0,15.0,3591
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural,Vocational/Technical Training Received_Formal & Other than Formal,49560.0,5.0,2056
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,181480.0,12.0,7501
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural+Urban,Did not Receive Vocational/ Technical Training,2666271.0,90.8,107936
+India,"PLFS Year (Jul - Jun), 2018",Persons,Urban,Did not Receive Vocational/ Technical Training,809517.0,88.0,45951
+India,"PLFS Year (Jul - Jun), 2018",Persons,Rural,Did not Receive Vocational/ Technical Training,1856754.0,92.1,61985
+India,"PLFS Year (Jul - Jun), 2018",Male,Urban,Did not Receive Vocational/ Technical Training,407689.0,85.0,23104
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural+Urban,Did not Receive Vocational/ Technical Training,1326388.0,88.0,54651
+India,"PLFS Year (Jul - Jun), 2018",Male,Rural,Did not Receive Vocational/ Technical Training,918699.0,89.3,31547
+India,"PLFS Year (Jul - Jun), 2018",Female,Urban,Did not Receive Vocational/ Technical Training,401827.0,91.2,22847
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural+Urban,Did not Receive Vocational/ Technical Training,1339883.0,93.8,53285
+India,"PLFS Year (Jul - Jun), 2018",Female,Rural,Did not Receive Vocational/ Technical Training,938056.0,95.0,30438
+India,"PLFS Year (Jul - Jun), 2017",Male,Urban,Vocational/Technical Training Received_Formal,21022.0,4.6,1219
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural,Vocational/Technical Training Received_Formal,34790.0,1.7,1378
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural+Urban,Vocational/Technical Training Received_Formal,31351.0,2.2,1616
+India,"PLFS Year (Jul - Jun), 2017",Persons,Urban,Vocational/Technical Training Received_Formal,38923.0,4.4,2251
+India,"PLFS Year (Jul - Jun), 2017",Female,Urban,Vocational/Technical Training Received_Formal,17901.0,4.2,1032
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural,Vocational/Technical Training Received_Formal,21339.0,2.0,794
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural+Urban,Vocational/Technical Training Received_Formal,73713.0,,3629
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural+Urban,Vocational/Technical Training Received_Formal,42361.0,2.8,2013
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural,Vocational/Technical Training Received_Formal,13450.0,1.3,584
+India,"PLFS Year (Jul - Jun), 2017",Male,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,3288.0,0.7,190
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,6023.0,0.6,238
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,22330.0,1.5,817
+India,"PLFS Year (Jul - Jun), 2017",Female,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,1432.0,0.3,102
+India,"PLFS Year (Jul - Jun), 2017",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,4721.0,0.5,292
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,25065.0,1.2,865
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,7455.0,0.5,340
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Hereditary,29785.0,,1157
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural,Vocational/Technical Training Received_Other than Formal_Hereditary,19042.0,1.8,627
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,21355.0,2.0,657
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,9880.0,1.0,334
+India,"PLFS Year (Jul - Jun), 2017",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,9154.0,1.0,641
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,40390.0,,1632
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Self-Learning,31236.0,1.5,991
+India,"PLFS Year (Jul - Jun), 2017",Male,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,6320.0,1.4,454
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,27675.0,1.8,1111
+India,"PLFS Year (Jul - Jun), 2017",Female,Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,2834.0,0.7,187
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Self-Learning,12715.0,0.9,521
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,5784.0,0.6,187
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,31552.0,1.5,1042
+India,"PLFS Year (Jul - Jun), 2017",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,20398.0,2.3,974
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,9604.0,0.7,333
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,51950.0,,2016
+India,"PLFS Year (Jul - Jun), 2017",Male,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,16579.0,3.7,828
+India,"PLFS Year (Jul - Jun), 2017",Female,Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,3820.0,0.9,146
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural,Vocational/Technical Training Received_Other than Formal_Learning on the Job,25767.0,2.4,855
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Learning on the Job,42346.0,2.8,1683
+India,"PLFS Year (Jul - Jun), 2017",Male,Urban,Vocational/Technical Training Received_Other than Formal_Others,2808.0,0.6,129
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,12325.0,,525
+India,"PLFS Year (Jul - Jun), 2017",Female,Urban,Vocational/Technical Training Received_Other than Formal_Others,1804.0,0.4,123
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,5990.0,0.4,249
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural,Vocational/Technical Training Received_Other than Formal_Others,7712.0,0.4,273
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_Others,6335.0,0.4,276
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural,Vocational/Technical Training Received_Other than Formal_Others,4531.0,0.5,153
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural,Vocational/Technical Training Received_Other than Formal_Others,3181.0,0.3,120
+India,"PLFS Year (Jul - Jun), 2017",Persons,Urban,Vocational/Technical Training Received_Other than Formal_Others,4612.0,0.5,252
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,36109.0,2.5,1470
+India,"PLFS Year (Jul - Jun), 2017",Male,Urban,Vocational/Technical Training Received_Other than Formal_All,28995.0,6.4,1601
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural,Vocational/Technical Training Received_Other than Formal_All,26219.0,2.6,912
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,98341.0,6.5,3860
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural+Urban,Vocational/Technical Training Received_Other than Formal_All,134449.0,,5330
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural,Vocational/Technical Training Received_Other than Formal_All,69346.0,6.5,2259
+India,"PLFS Year (Jul - Jun), 2017",Female,Urban,Vocational/Technical Training Received_Other than Formal_All,9890.0,2.3,558
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural,Vocational/Technical Training Received_Other than Formal_All,95564.0,4.6,3171
+India,"PLFS Year (Jul - Jun), 2017",Persons,Urban,Vocational/Technical Training Received_Other than Formal_All,38885.0,4.4,2159
+India,"PLFS Year (Jul - Jun), 2017",Female,Urban,Vocational/Technical Training Received_Formal & Other than Formal,27791.0,6.5,1590
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,208162.0,,8959
+India,"PLFS Year (Jul - Jun), 2017",Persons,Urban,Vocational/Technical Training Received_Formal & Other than Formal,77808.0,8.8,4410
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,67460.0,4.7,3086
+India,"PLFS Year (Jul - Jun), 2017",Male,Urban,Vocational/Technical Training Received_Formal & Other than Formal,50017.0,11.1,2820
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural+Urban,Vocational/Technical Training Received_Formal & Other than Formal,140702.0,9.3,5873
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural,Vocational/Technical Training Received_Formal & Other than Formal,39669.0,4.0,1496
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural,Vocational/Technical Training Received_Formal & Other than Formal,130354.0,6.3,4549
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural,Vocational/Technical Training Received_Formal & Other than Formal,90685.0,8.5,3053
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural,Did not Receive Vocational/ Technical Training,958178.0,96.0,32285
+India,"PLFS Year (Jul - Jun), 2017",Persons,Urban,Did not Receive Vocational/ Technical Training,804397.0,91.2,49082
+India,"PLFS Year (Jul - Jun), 2017",Female,Urban,Did not Receive Vocational/ Technical Training,401936.0,93.5,24269
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural,Did not Receive Vocational/ Technical Training,1935622.0,93.7,67068
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural+Urban,Did not Receive Vocational/ Technical Training,1379905.0,90.7,59596
+India,"PLFS Year (Jul - Jun), 2017",Persons,Rural+Urban,Did not Receive Vocational/ Technical Training,2740019.0,,116150
+India,"PLFS Year (Jul - Jun), 2017",Male,Rural,Did not Receive Vocational/ Technical Training,977443.0,91.5,34783
+India,"PLFS Year (Jul - Jun), 2017",Male,Urban,Did not Receive Vocational/ Technical Training,402461.0,88.9,24813
+India,"PLFS Year (Jul - Jun), 2017",Female,Rural+Urban,Did not Receive Vocational/ Technical Training,1360114.0,95.3,56554

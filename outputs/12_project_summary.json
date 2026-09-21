@@ -1,0 +1,542 @@
+{
+  "metadata": {
+    "project_name": "Women's Economic Empowerment ML Pipeline",
+    "phase": 6,
+    "generated": "2026-08-30T23:33:01.899793",
+    "latest_feature_year": 2022,
+    "target_year": 2023
+  },
+  "data_summary": {
+    "states": 36,
+    "first_year": 2017,
+    "latest_year": 2022
+  },
+  "model_metrics": [
+    {
+      "Model": "LogisticRegression",
+      "Accuracy": 0.3333,
+      "Precision": 0.3333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "AUC_ROC": 0.2049
+    },
+    {
+      "Model": "RandomForest",
+      "Accuracy": 0.6111,
+      "Precision": 0.4545,
+      "Recall": 0.8333,
+      "F1": 0.5882,
+      "AUC_ROC": 0.5521
+    }
+  ],
+  "feature_importance": [
+    {
+      "Feature": "NonAgriculture_Pct",
+      "Importance": 0.157
+    },
+    {
+      "Feature": "LFPR",
+      "Importance": 0.1553
+    },
+    {
+      "Feature": "UR",
+      "Importance": 0.1304
+    },
+    {
+      "Feature": "WPR",
+      "Importance": 0.1237
+    },
+    {
+      "Feature": "LFPR_Lag1",
+      "Importance": 0.1228
+    },
+    {
+      "Feature": "PMMY_Growth",
+      "Importance": 0.1141
+    },
+    {
+      "Feature": "LFPR_Lag2",
+      "Importance": 0.1005
+    },
+    {
+      "Feature": "VocationalTraining_Pct",
+      "Importance": 0.0493
+    },
+    {
+      "Feature": "SecondaryPlus_Pct",
+      "Importance": 0.0469
+    }
+  ],
+  "cohort_summary": [
+    {
+      "Cohort": "Low Participation",
+      "Num_States": 6,
+      "Pct_States": 16.7,
+      "Avg_LFPR": 30.1,
+      "Avg_WPR": 28.55,
+      "Avg_UR": 5.95,
+      "Pct_Predicted_Improving": 0.0
+    },
+    {
+      "Cohort": "At Risk",
+      "Num_States": 8,
+      "Pct_States": 22.2,
+      "Avg_LFPR": 37.07,
+      "Avg_WPR": 34.57,
+      "Avg_UR": 8.18,
+      "Pct_Predicted_Improving": 0.0
+    },
+    {
+      "Cohort": "Growing but Constrained",
+      "Num_States": 12,
+      "Pct_States": 33.3,
+      "Avg_LFPR": 24.17,
+      "Avg_WPR": 21.89,
+      "Avg_UR": 10.14,
+      "Pct_Predicted_Improving": 100.0
+    },
+    {
+      "Cohort": "High Potential",
+      "Num_States": 10,
+      "Pct_States": 27.8,
+      "Avg_LFPR": 47.8,
+      "Avg_WPR": 42.3,
+      "Avg_UR": 13.21,
+      "Pct_Predicted_Improving": 100.0
+    }
+  ],
+  "state_dashboard": [
+    {
+      "State_Rank": 1,
+      "State": "Delhi",
+      "Cohort": "Low Participation",
+      "LFPR": 11.108333333333334,
+      "WPR": 10.808333333333332,
+      "UR": 2.158333333333333,
+      "LFPR_Change": -0.27,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 43.5,
+      "Focus_Areas": "Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities."
+    },
+    {
+      "State_Rank": 2,
+      "State": "Puducherry",
+      "Cohort": "Low Participation",
+      "LFPR": 33.15,
+      "WPR": 29.941666666666663,
+      "UR": 10.991666666666667,
+      "LFPR_Change": -1.67,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 41.7,
+      "Focus_Areas": "Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities."
+    },
+    {
+      "State_Rank": 3,
+      "State": "Karnataka",
+      "Cohort": "Low Participation",
+      "LFPR": 33.541666666666664,
+      "WPR": 32.09166666666667,
+      "UR": 4.883333333333334,
+      "LFPR_Change": 6.4,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 31.9,
+      "Focus_Areas": "Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities."
+    },
+    {
+      "State_Rank": 4,
+      "State": "Jharkhand",
+      "Cohort": "Low Participation",
+      "LFPR": 34.0,
+      "WPR": 33.358333333333334,
+      "UR": 3.9,
+      "LFPR_Change": -1.41,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 37.5,
+      "Focus_Areas": "Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities."
+    },
+    {
+      "State_Rank": 5,
+      "State": "Madhya Pradesh",
+      "Cohort": "Low Participation",
+      "LFPR": 34.358333333333334,
+      "WPR": 33.50833333333333,
+      "UR": 3.8666666666666663,
+      "LFPR_Change": 2.83,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 32.9,
+      "Focus_Areas": "Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities."
+    },
+    {
+      "State_Rank": 6,
+      "State": "Tamil Nadu",
+      "Cohort": "Low Participation",
+      "LFPR": 34.416666666666664,
+      "WPR": 31.6,
+      "UR": 9.891666666666667,
+      "LFPR_Change": -0.66,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 39.3,
+      "Focus_Areas": "Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities."
+    },
+    {
+      "State_Rank": 7,
+      "State": "Kerala",
+      "Cohort": "At Risk",
+      "LFPR": 34.65833333333333,
+      "WPR": 28.433333333333337,
+      "UR": 19.6,
+      "LFPR_Change": 0.59,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 43.7,
+      "Focus_Areas": "Investigate weakening momentum and examine sectoral and employment-quality changes."
+    },
+    {
+      "State_Rank": 8,
+      "State": "Maharashtra",
+      "Cohort": "At Risk",
+      "LFPR": 35.19166666666667,
+      "WPR": 33.791666666666664,
+      "UR": 4.85,
+      "LFPR_Change": 2.23,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 33.9,
+      "Focus_Areas": "Investigate weakening momentum and examine sectoral and employment-quality changes."
+    },
+    {
+      "State_Rank": 9,
+      "State": "Odisha",
+      "Cohort": "At Risk",
+      "LFPR": 36.74166666666667,
+      "WPR": 34.85,
+      "UR": 6.199999999999999,
+      "LFPR_Change": 9.03,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 34.3,
+      "Focus_Areas": "Investigate weakening momentum and examine sectoral and employment-quality changes."
+    },
+    {
+      "State_Rank": 10,
+      "State": "Telangana",
+      "Cohort": "At Risk",
+      "LFPR": 37.325,
+      "WPR": 34.833333333333336,
+      "UR": 8.625,
+      "LFPR_Change": -0.31,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 40.0,
+      "Focus_Areas": "Investigate weakening momentum and examine sectoral and employment-quality changes."
+    },
+    {
+      "State_Rank": 11,
+      "State": "Rajasthan",
+      "Cohort": "At Risk",
+      "LFPR": 37.45,
+      "WPR": 35.275,
+      "UR": 8.141666666666667,
+      "LFPR_Change": 6.13,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 41.9,
+      "Focus_Areas": "Investigate weakening momentum and examine sectoral and employment-quality changes."
+    },
+    {
+      "State_Rank": 12,
+      "State": "Gujarat",
+      "Cohort": "At Risk",
+      "LFPR": 37.49166666666667,
+      "WPR": 36.65,
+      "UR": 2.7999999999999994,
+      "LFPR_Change": 6.62,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 39.0,
+      "Focus_Areas": "Investigate weakening momentum and examine sectoral and employment-quality changes."
+    },
+    {
+      "State_Rank": 13,
+      "State": "Mizoram",
+      "Cohort": "At Risk",
+      "LFPR": 38.075,
+      "WPR": 36.075,
+      "UR": 6.516666666666666,
+      "LFPR_Change": 7.62,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 41.0,
+      "Focus_Areas": "Investigate weakening momentum and examine sectoral and employment-quality changes."
+    },
+    {
+      "State_Rank": 14,
+      "State": "Andhra Pradesh",
+      "Cohort": "At Risk",
+      "LFPR": 39.63333333333333,
+      "WPR": 36.641666666666666,
+      "UR": 8.674999999999999,
+      "LFPR_Change": 2.73,
+      "Predicted_Improving_Next_Year": "No",
+      "Prediction_Probability_Pct": 48.1,
+      "Focus_Areas": "Investigate weakening momentum and examine sectoral and employment-quality changes."
+    },
+    {
+      "State_Rank": 15,
+      "State": "Lakshadweep",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 15.841666666666669,
+      "WPR": 12.266666666666666,
+      "UR": 23.141666666666666,
+      "LFPR_Change": -1.21,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 55.9,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 16,
+      "State": "Bihar",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 15.891666666666666,
+      "WPR": 15.141666666666666,
+      "UR": 6.8,
+      "LFPR_Change": 7.43,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 53.2,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 17,
+      "State": "Haryana",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 18.3,
+      "WPR": 16.724999999999998,
+      "UR": 9.458333333333334,
+      "LFPR_Change": 1.0,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 57.0,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 18,
+      "State": "Assam",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 20.3,
+      "WPR": 18.116666666666667,
+      "UR": 9.433333333333332,
+      "LFPR_Change": -4.47,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 73.1,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 19,
+      "State": "Uttar Pradesh",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 22.59166666666667,
+      "WPR": 21.59166666666667,
+      "UR": 6.433333333333334,
+      "LFPR_Change": 2.92,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 60.6,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 20,
+      "State": "Chandigarh",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 23.316666666666663,
+      "WPR": 21.75,
+      "UR": 5.891666666666667,
+      "LFPR_Change": 7.14,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 52.4,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 21,
+      "State": "Punjab",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 26.041666666666668,
+      "WPR": 22.791666666666668,
+      "UR": 12.675,
+      "LFPR_Change": 3.6,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 55.7,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 22,
+      "State": "Manipur",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 27.608333333333334,
+      "WPR": 25.525,
+      "UR": 8.766666666666667,
+      "LFPR_Change": 6.57,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 60.5,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 23,
+      "State": "Tripura",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 29.108333333333334,
+      "WPR": 28.316666666666663,
+      "UR": 3.525,
+      "LFPR_Change": 7.53,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 52.2,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 24,
+      "State": "West Bengal",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 29.875,
+      "WPR": 28.816666666666663,
+      "UR": 3.891666666666667,
+      "LFPR_Change": 4.73,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 55.6,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 25,
+      "State": "Uttarakhand",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 30.53333333333333,
+      "WPR": 28.266666666666666,
+      "UR": 9.141666666666667,
+      "LFPR_Change": 3.62,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 66.0,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 26,
+      "State": "Goa",
+      "Cohort": "Growing but Constrained",
+      "LFPR": 30.59166666666667,
+      "WPR": 23.383333333333336,
+      "UR": 22.525,
+      "LFPR_Change": 8.35,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 61.6,
+      "Focus_Areas": "Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+    },
+    {
+      "State_Rank": 27,
+      "State": "The Dadra and Nagar Haveli and Daman and Diu",
+      "Cohort": "High Potential",
+      "LFPR": 38.225,
+      "WPR": 35.300000000000004,
+      "UR": 7.258333333333333,
+      "LFPR_Change": -1.57,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 55.5,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    },
+    {
+      "State_Rank": 28,
+      "State": "Jammu and Kashmir",
+      "Cohort": "High Potential",
+      "LFPR": 40.333333333333336,
+      "WPR": 35.13333333333333,
+      "UR": 15.858333333333334,
+      "LFPR_Change": 2.37,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 54.1,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    },
+    {
+      "State_Rank": 29,
+      "State": "Arunachal Pradesh",
+      "Cohort": "High Potential",
+      "LFPR": 44.48333333333333,
+      "WPR": 40.31666666666667,
+      "UR": 12.016666666666666,
+      "LFPR_Change": 19.62,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 55.1,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    },
+    {
+      "State_Rank": 30,
+      "State": "Ladakh",
+      "Cohort": "High Potential",
+      "LFPR": 45.74166666666667,
+      "WPR": 39.208333333333336,
+      "UR": 18.158333333333335,
+      "LFPR_Change": 8.89,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 62.3,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    },
+    {
+      "State_Rank": 31,
+      "State": "Meghalaya",
+      "Cohort": "High Potential",
+      "LFPR": 48.06666666666666,
+      "WPR": 41.391666666666666,
+      "UR": 15.433333333333335,
+      "LFPR_Change": 8.61,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 78.4,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    },
+    {
+      "State_Rank": 32,
+      "State": "Chhattisgarh",
+      "Cohort": "High Potential",
+      "LFPR": 48.18333333333333,
+      "WPR": 45.916666666666664,
+      "UR": 6.383333333333333,
+      "LFPR_Change": 6.45,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 86.7,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    },
+    {
+      "State_Rank": 33,
+      "State": "Andaman and Nicobar Islands",
+      "Cohort": "High Potential",
+      "LFPR": 48.708333333333336,
+      "WPR": 35.85,
+      "UR": 26.233333333333334,
+      "LFPR_Change": 7.01,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 82.0,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    },
+    {
+      "State_Rank": 34,
+      "State": "Nagaland",
+      "Cohort": "High Potential",
+      "LFPR": 51.53333333333333,
+      "WPR": 47.791666666666664,
+      "UR": 8.441666666666666,
+      "LFPR_Change": 9.1,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 88.5,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    },
+    {
+      "State_Rank": 35,
+      "State": "Sikkim",
+      "Cohort": "High Potential",
+      "LFPR": 54.44166666666666,
+      "WPR": 51.35,
+      "UR": 5.983333333333333,
+      "LFPR_Change": 7.71,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 87.0,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    },
+    {
+      "State_Rank": 36,
+      "State": "Himachal Pradesh",
+      "Cohort": "High Potential",
+      "LFPR": 58.291666666666664,
+      "WPR": 50.75833333333333,
+      "UR": 16.3,
+      "LFPR_Change": 5.77,
+      "Predicted_Improving_Next_Year": "Yes",
+      "Prediction_Probability_Pct": 90.8,
+      "Focus_Areas": "Sustain positive momentum while examining employment quality, retention and advancement."
+    }
+  ]
+}

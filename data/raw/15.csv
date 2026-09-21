@@ -1,0 +1,2269 @@
+Country,State,Year,Type Of Areas,Gender,"Rate Of Unemployment  (UOM:Ratio), Scaling Factor:1"
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2023",rural,Male,42.0
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2023",rural,Female,27.63
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2023",rural,Person,28.1
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2023",urban,Male,6.95
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2023",urban,Female,14.69
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2023",urban,Person,5.49
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,23.52
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,16.23
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,15.86
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Male,10.9
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Female,12.04
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Person,9.11
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Male,14.4
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Female,14.55
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Person,11.55
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,8.78
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,9.95
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,7.35
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Male,13.95
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Female,25.63
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Person,17.13
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Male,2.6
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Female,19.75
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Person,10.64
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,10.84
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,17.62
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,12.69
+India,Assam,"PLFS Year (Jul - Jun), 2023",rural,Male,11.32
+India,Assam,"PLFS Year (Jul - Jun), 2023",rural,Female,12.91
+India,Assam,"PLFS Year (Jul - Jun), 2023",rural,Person,9.12
+India,Assam,"PLFS Year (Jul - Jun), 2023",urban,Male,24.23
+India,Assam,"PLFS Year (Jul - Jun), 2023",urban,Female,25.08
+India,Assam,"PLFS Year (Jul - Jun), 2023",urban,Person,17.53
+India,Assam,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,10.19
+India,Assam,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,11.7
+India,Assam,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,8.11
+India,Bihar,"PLFS Year (Jul - Jun), 2023",rural,Male,13.77
+India,Bihar,"PLFS Year (Jul - Jun), 2023",rural,Female,40.46
+India,Bihar,"PLFS Year (Jul - Jun), 2023",rural,Person,12.95
+India,Bihar,"PLFS Year (Jul - Jun), 2023",urban,Male,17.1
+India,Bihar,"PLFS Year (Jul - Jun), 2023",urban,Female,36.41
+India,Bihar,"PLFS Year (Jul - Jun), 2023",urban,Person,19.59
+India,Bihar,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,11.76
+India,Bihar,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,31.76
+India,Bihar,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,11.16
+India,Chandigarh,"PLFS Year (Jul - Jun), 2023",rural,Male,
+India,Chandigarh,"PLFS Year (Jul - Jun), 2023",rural,Female,
+India,Chandigarh,"PLFS Year (Jul - Jun), 2023",rural,Person,
+India,Chandigarh,"PLFS Year (Jul - Jun), 2023",urban,Male,7.56
+India,Chandigarh,"PLFS Year (Jul - Jun), 2023",urban,Female,0.19
+India,Chandigarh,"PLFS Year (Jul - Jun), 2023",urban,Person,5.99
+India,Chandigarh,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,7.56
+India,Chandigarh,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,0.19
+India,Chandigarh,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,5.99
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2023",rural,Male,11.68
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2023",rural,Female,21.65
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2023",rural,Person,10.8
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2023",urban,Male,9.53
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2023",urban,Female,15.43
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2023",urban,Person,8.61
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,8.81
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,15.16
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,7.93
+India,Delhi,"PLFS Year (Jul - Jun), 2023",rural,Male,102.12
+India,Delhi,"PLFS Year (Jul - Jun), 2023",rural,Female,3.09
+India,Delhi,"PLFS Year (Jul - Jun), 2023",rural,Person,18.05
+India,Delhi,"PLFS Year (Jul - Jun), 2023",urban,Male,40.46
+India,Delhi,"PLFS Year (Jul - Jun), 2023",urban,Female,23.53
+India,Delhi,"PLFS Year (Jul - Jun), 2023",urban,Person,36.48
+India,Delhi,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,39.47
+India,Delhi,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,23.49
+India,Delhi,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,34.85
+India,Goa,"PLFS Year (Jul - Jun), 2023",rural,Male,61.73
+India,Goa,"PLFS Year (Jul - Jun), 2023",rural,Female,44.31
+India,Goa,"PLFS Year (Jul - Jun), 2023",rural,Person,56.72
+India,Goa,"PLFS Year (Jul - Jun), 2023",urban,Male,26.94
+India,Goa,"PLFS Year (Jul - Jun), 2023",urban,Female,17.73
+India,Goa,"PLFS Year (Jul - Jun), 2023",urban,Person,14.72
+India,Goa,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,41.64
+India,Goa,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,17.46
+India,Goa,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,28.15
+India,Gujarat,"PLFS Year (Jul - Jun), 2023",rural,Male,21.62
+India,Gujarat,"PLFS Year (Jul - Jun), 2023",rural,Female,45.59
+India,Gujarat,"PLFS Year (Jul - Jun), 2023",rural,Person,23.95
+India,Gujarat,"PLFS Year (Jul - Jun), 2023",urban,Male,7.78
+India,Gujarat,"PLFS Year (Jul - Jun), 2023",urban,Female,23.81
+India,Gujarat,"PLFS Year (Jul - Jun), 2023",urban,Person,7.35
+India,Gujarat,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,10.61
+India,Gujarat,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,20.66
+India,Gujarat,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,10.76
+India,Haryana,"PLFS Year (Jul - Jun), 2023",rural,Male,20.74
+India,Haryana,"PLFS Year (Jul - Jun), 2023",rural,Female,42.9
+India,Haryana,"PLFS Year (Jul - Jun), 2023",rural,Person,18.85
+India,Haryana,"PLFS Year (Jul - Jun), 2023",urban,Male,11.6
+India,Haryana,"PLFS Year (Jul - Jun), 2023",urban,Female,30.08
+India,Haryana,"PLFS Year (Jul - Jun), 2023",urban,Person,13.23
+India,Haryana,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,13.7
+India,Haryana,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,27.35
+India,Haryana,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,12.71
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Male,13.11
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Female,14.19
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Person,8.69
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Male,25.66
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Female,6.75
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Person,8.86
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,11.97
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,12.21
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,7.67
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2023",rural,Male,18.18
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2023",rural,Female,11.66
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2023",rural,Person,12.04
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2023",urban,Male,6.18
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2023",urban,Female,4.73
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2023",urban,Person,5.12
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,14.86
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,7.7
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,8.85
+India,Jharkhand,"PLFS Year (Jul - Jun), 2023",rural,Male,25.39
+India,Jharkhand,"PLFS Year (Jul - Jun), 2023",rural,Female,76.71
+India,Jharkhand,"PLFS Year (Jul - Jun), 2023",rural,Person,24.98
+India,Jharkhand,"PLFS Year (Jul - Jun), 2023",urban,Male,16.15
+India,Jharkhand,"PLFS Year (Jul - Jun), 2023",urban,Female,25.75
+India,Jharkhand,"PLFS Year (Jul - Jun), 2023",urban,Person,16.53
+India,Jharkhand,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,15.75
+India,Jharkhand,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,33.99
+India,Jharkhand,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,15.83
+India,Karnataka,"PLFS Year (Jul - Jun), 2023",rural,Male,20.95
+India,Karnataka,"PLFS Year (Jul - Jun), 2023",rural,Female,49.05
+India,Karnataka,"PLFS Year (Jul - Jun), 2023",rural,Person,21.57
+India,Karnataka,"PLFS Year (Jul - Jun), 2023",urban,Male,10.52
+India,Karnataka,"PLFS Year (Jul - Jun), 2023",urban,Female,25.4
+India,Karnataka,"PLFS Year (Jul - Jun), 2023",urban,Person,13.68
+India,Karnataka,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,11.51
+India,Karnataka,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,23.59
+India,Karnataka,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,12.12
+India,Kerala,"PLFS Year (Jul - Jun), 2023",rural,Male,9.11
+India,Kerala,"PLFS Year (Jul - Jun), 2023",rural,Female,11.47
+India,Kerala,"PLFS Year (Jul - Jun), 2023",rural,Person,7.79
+India,Kerala,"PLFS Year (Jul - Jun), 2023",urban,Male,8.86
+India,Kerala,"PLFS Year (Jul - Jun), 2023",urban,Female,8.63
+India,Kerala,"PLFS Year (Jul - Jun), 2023",urban,Person,6.07
+India,Kerala,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,6.38
+India,Kerala,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,7.44
+India,Kerala,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,5.07
+India,Ladakh,"PLFS Year (Jul - Jun), 2023",rural,Male,50.92
+India,Ladakh,"PLFS Year (Jul - Jun), 2023",rural,Female,59.56
+India,Ladakh,"PLFS Year (Jul - Jun), 2023",rural,Person,52.93
+India,Ladakh,"PLFS Year (Jul - Jun), 2023",urban,Male,13.47
+India,Ladakh,"PLFS Year (Jul - Jun), 2023",urban,Female,16.79
+India,Ladakh,"PLFS Year (Jul - Jun), 2023",urban,Person,25.87
+India,Ladakh,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,42.25
+India,Ladakh,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,45.45
+India,Ladakh,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,40.46
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2023",rural,Male,7.96
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2023",rural,Female,78.88
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2023",rural,Person,47.42
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2023",urban,Male,43.29
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2023",urban,Female,2.01
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2023",urban,Person,33.08
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,36.03
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,32.14
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,28.33
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Male,18.86
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Female,29.21
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Person,20.04
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Male,12.99
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Female,15.03
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Person,9.78
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,11.96
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,21.74
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,12.75
+India,Maharashtra,"PLFS Year (Jul - Jun), 2023",rural,Male,16.15
+India,Maharashtra,"PLFS Year (Jul - Jun), 2023",rural,Female,20.57
+India,Maharashtra,"PLFS Year (Jul - Jun), 2023",rural,Person,14.14
+India,Maharashtra,"PLFS Year (Jul - Jun), 2023",urban,Male,7.36
+India,Maharashtra,"PLFS Year (Jul - Jun), 2023",urban,Female,11.86
+India,Maharashtra,"PLFS Year (Jul - Jun), 2023",urban,Person,3.84
+India,Maharashtra,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,8.22
+India,Maharashtra,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,11.61
+India,Maharashtra,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,6.79
+India,Manipur,"PLFS Year (Jul - Jun), 2023",rural,Male,10.9
+India,Manipur,"PLFS Year (Jul - Jun), 2023",rural,Female,23.48
+India,Manipur,"PLFS Year (Jul - Jun), 2023",rural,Person,8.15
+India,Manipur,"PLFS Year (Jul - Jun), 2023",urban,Male,10.64
+India,Manipur,"PLFS Year (Jul - Jun), 2023",urban,Female,9.68
+India,Manipur,"PLFS Year (Jul - Jun), 2023",urban,Person,5.01
+India,Manipur,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,8.1
+India,Manipur,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,14.7
+India,Manipur,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,5.69
+India,Meghalaya,"PLFS Year (Jul - Jun), 2023",rural,Male,25.12
+India,Meghalaya,"PLFS Year (Jul - Jun), 2023",rural,Female,20.34
+India,Meghalaya,"PLFS Year (Jul - Jun), 2023",rural,Person,19.94
+India,Meghalaya,"PLFS Year (Jul - Jun), 2023",urban,Male,20.12
+India,Meghalaya,"PLFS Year (Jul - Jun), 2023",urban,Female,22.55
+India,Meghalaya,"PLFS Year (Jul - Jun), 2023",urban,Person,17.88
+India,Meghalaya,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,19.67
+India,Meghalaya,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,15.72
+India,Meghalaya,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,15.54
+India,Mizoram,"PLFS Year (Jul - Jun), 2023",rural,Male,62.64
+India,Mizoram,"PLFS Year (Jul - Jun), 2023",rural,Female,48.85
+India,Mizoram,"PLFS Year (Jul - Jun), 2023",rural,Person,56.74
+India,Mizoram,"PLFS Year (Jul - Jun), 2023",urban,Male,8.6
+India,Mizoram,"PLFS Year (Jul - Jun), 2023",urban,Female,42.76
+India,Mizoram,"PLFS Year (Jul - Jun), 2023",urban,Person,15.62
+India,Mizoram,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,25.4
+India,Mizoram,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,34.68
+India,Mizoram,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,21.54
+India,Nagaland,"PLFS Year (Jul - Jun), 2023",rural,Male,25.93
+India,Nagaland,"PLFS Year (Jul - Jun), 2023",rural,Female,22.76
+India,Nagaland,"PLFS Year (Jul - Jun), 2023",rural,Person,22.04
+India,Nagaland,"PLFS Year (Jul - Jun), 2023",urban,Male,28.95
+India,Nagaland,"PLFS Year (Jul - Jun), 2023",urban,Female,5.66
+India,Nagaland,"PLFS Year (Jul - Jun), 2023",urban,Person,17.07
+India,Nagaland,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,19.75
+India,Nagaland,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,14.98
+India,Nagaland,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,15.52
+India,Odisha,"PLFS Year (Jul - Jun), 2023",rural,Male,11.6
+India,Odisha,"PLFS Year (Jul - Jun), 2023",rural,Female,13.75
+India,Odisha,"PLFS Year (Jul - Jun), 2023",rural,Person,10.11
+India,Odisha,"PLFS Year (Jul - Jun), 2023",urban,Male,13.82
+India,Odisha,"PLFS Year (Jul - Jun), 2023",urban,Female,16.0
+India,Odisha,"PLFS Year (Jul - Jun), 2023",urban,Person,13.89
+India,Odisha,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,9.73
+India,Odisha,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,11.39
+India,Odisha,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,8.53
+India,Puducherry,"PLFS Year (Jul - Jun), 2023",rural,Male,52.89
+India,Puducherry,"PLFS Year (Jul - Jun), 2023",rural,Female,92.09
+India,Puducherry,"PLFS Year (Jul - Jun), 2023",rural,Person,22.76
+India,Puducherry,"PLFS Year (Jul - Jun), 2023",urban,Male,11.7
+India,Puducherry,"PLFS Year (Jul - Jun), 2023",urban,Female,35.79
+India,Puducherry,"PLFS Year (Jul - Jun), 2023",urban,Person,13.83
+India,Puducherry,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,13.51
+India,Puducherry,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,40.16
+India,Puducherry,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,12.17
+India,Punjab,"PLFS Year (Jul - Jun), 2023",rural,Male,11.13
+India,Punjab,"PLFS Year (Jul - Jun), 2023",rural,Female,19.26
+India,Punjab,"PLFS Year (Jul - Jun), 2023",rural,Person,10.37
+India,Punjab,"PLFS Year (Jul - Jun), 2023",urban,Male,11.27
+India,Punjab,"PLFS Year (Jul - Jun), 2023",urban,Female,16.22
+India,Punjab,"PLFS Year (Jul - Jun), 2023",urban,Person,7.75
+India,Punjab,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,8.24
+India,Punjab,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,14.01
+India,Punjab,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,7.32
+India,Rajasthan,"PLFS Year (Jul - Jun), 2023",rural,Male,13.01
+India,Rajasthan,"PLFS Year (Jul - Jun), 2023",rural,Female,20.1
+India,Rajasthan,"PLFS Year (Jul - Jun), 2023",rural,Person,10.46
+India,Rajasthan,"PLFS Year (Jul - Jun), 2023",urban,Male,8.15
+India,Rajasthan,"PLFS Year (Jul - Jun), 2023",urban,Female,9.77
+India,Rajasthan,"PLFS Year (Jul - Jun), 2023",urban,Person,5.56
+India,Rajasthan,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,8.75
+India,Rajasthan,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,12.25
+India,Rajasthan,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,6.66
+India,Sikkim,"PLFS Year (Jul - Jun), 2023",rural,Male,9.1
+India,Sikkim,"PLFS Year (Jul - Jun), 2023",rural,Female,35.8
+India,Sikkim,"PLFS Year (Jul - Jun), 2023",rural,Person,10.36
+India,Sikkim,"PLFS Year (Jul - Jun), 2023",urban,Male,22.75
+India,Sikkim,"PLFS Year (Jul - Jun), 2023",urban,Female,24.19
+India,Sikkim,"PLFS Year (Jul - Jun), 2023",urban,Person,10.99
+India,Sikkim,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,8.25
+India,Sikkim,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,27.56
+India,Sikkim,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,8.69
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2023",rural,Male,11.02
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2023",rural,Female,10.93
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2023",rural,Person,7.29
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2023",urban,Male,5.14
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2023",urban,Female,8.77
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2023",urban,Person,5.62
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,6.64
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,7.9
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,4.99
+India,Telangana,"PLFS Year (Jul - Jun), 2023",rural,Male,13.99
+India,Telangana,"PLFS Year (Jul - Jun), 2023",rural,Female,20.98
+India,Telangana,"PLFS Year (Jul - Jun), 2023",rural,Person,11.13
+India,Telangana,"PLFS Year (Jul - Jun), 2023",urban,Male,11.75
+India,Telangana,"PLFS Year (Jul - Jun), 2023",urban,Female,25.51
+India,Telangana,"PLFS Year (Jul - Jun), 2023",urban,Person,12.62
+India,Telangana,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,9.36
+India,Telangana,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,16.08
+India,Telangana,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,8.49
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2023",rural,Male,35.13
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2023",rural,Female,0.0
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2023",rural,Person,37.16
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2023",urban,Male,62.06
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2023",urban,Female,31.02
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2023",urban,Person,43.67
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,34.83
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,40.68
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,29.0
+India,Tripura,"PLFS Year (Jul - Jun), 2023",rural,Male,10.16
+India,Tripura,"PLFS Year (Jul - Jun), 2023",rural,Female,10.73
+India,Tripura,"PLFS Year (Jul - Jun), 2023",rural,Person,7.48
+India,Tripura,"PLFS Year (Jul - Jun), 2023",urban,Male,30.12
+India,Tripura,"PLFS Year (Jul - Jun), 2023",urban,Female,19.05
+India,Tripura,"PLFS Year (Jul - Jun), 2023",urban,Person,20.09
+India,Tripura,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,10.22
+India,Tripura,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,10.11
+India,Tripura,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,7.52
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Male,9.64
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Female,18.19
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2023",rural,Person,8.77
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Male,11.83
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Female,11.46
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2023",urban,Person,8.83
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,7.65
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,11.24
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,6.63
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2023",rural,Male,26.1
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2023",rural,Female,15.89
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2023",rural,Person,18.93
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2023",urban,Male,10.88
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2023",urban,Female,14.68
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2023",urban,Person,6.69
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,21.2
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,11.24
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,14.33
+India,West Bengal,"PLFS Year (Jul - Jun), 2023",rural,Male,11.99
+India,West Bengal,"PLFS Year (Jul - Jun), 2023",rural,Female,15.58
+India,West Bengal,"PLFS Year (Jul - Jun), 2023",rural,Person,10.06
+India,West Bengal,"PLFS Year (Jul - Jun), 2023",urban,Male,11.77
+India,West Bengal,"PLFS Year (Jul - Jun), 2023",urban,Female,12.76
+India,West Bengal,"PLFS Year (Jul - Jun), 2023",urban,Person,9.66
+India,West Bengal,"PLFS Year (Jul - Jun), 2023",rural + urban,Male,8.78
+India,West Bengal,"PLFS Year (Jul - Jun), 2023",rural + urban,Female,10.39
+India,West Bengal,"PLFS Year (Jul - Jun), 2023",rural + urban,Person,7.21
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2022",rural,Male,36.83
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2022",rural,Female,31.56
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2022",rural,Person,21.65
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2022",urban,Male,22.0
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2022",urban,Female,12.74
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2022",urban,Person,2.37
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,22.23
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,14.12
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,9.86
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Male,10.41
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Female,14.23
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Person,7.4
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Male,10.33
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Female,15.67
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Person,8.84
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,7.65
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,11.07
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,5.79
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Male,21.17
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Female,27.03
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Person,19.56
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Male,10.51
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Female,13.0
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Person,11.37
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,16.73
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,17.98
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,14.7
+India,Assam,"PLFS Year (Jul - Jun), 2022",rural,Male,58.14
+India,Assam,"PLFS Year (Jul - Jun), 2022",rural,Female,14.02
+India,Assam,"PLFS Year (Jul - Jun), 2022",rural,Person,48.62
+India,Assam,"PLFS Year (Jul - Jun), 2022",urban,Male,13.83
+India,Assam,"PLFS Year (Jul - Jun), 2022",urban,Female,11.62
+India,Assam,"PLFS Year (Jul - Jun), 2022",urban,Person,7.96
+India,Assam,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,55.73
+India,Assam,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,11.67
+India,Assam,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,46.38
+India,Bihar,"PLFS Year (Jul - Jun), 2022",rural,Male,11.63
+India,Bihar,"PLFS Year (Jul - Jun), 2022",rural,Female,43.53
+India,Bihar,"PLFS Year (Jul - Jun), 2022",rural,Person,12.11
+India,Bihar,"PLFS Year (Jul - Jun), 2022",urban,Male,3.8
+India,Bihar,"PLFS Year (Jul - Jun), 2022",urban,Female,38.53
+India,Bihar,"PLFS Year (Jul - Jun), 2022",urban,Person,6.53
+India,Bihar,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,10.26
+India,Bihar,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,35.97
+India,Bihar,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,10.61
+India,Chandigarh,"PLFS Year (Jul - Jun), 2022",rural,Male,16.12
+India,Chandigarh,"PLFS Year (Jul - Jun), 2022",rural,Female,2.73
+India,Chandigarh,"PLFS Year (Jul - Jun), 2022",rural,Person,22.67
+India,Chandigarh,"PLFS Year (Jul - Jun), 2022",urban,Male,24.45
+India,Chandigarh,"PLFS Year (Jul - Jun), 2022",urban,Female,44.37
+India,Chandigarh,"PLFS Year (Jul - Jun), 2022",urban,Person,28.67
+India,Chandigarh,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,24.92
+India,Chandigarh,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,36.78
+India,Chandigarh,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,27.13
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2022",rural,Male,12.04
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2022",rural,Female,19.91
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2022",rural,Person,10.91
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2022",urban,Male,15.03
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2022",urban,Female,9.33
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2022",urban,Person,7.92
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,9.84
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,14.28
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,8.36
+India,Delhi,"PLFS Year (Jul - Jun), 2022",rural,Male,59.34
+India,Delhi,"PLFS Year (Jul - Jun), 2022",rural,Female,0.0
+India,Delhi,"PLFS Year (Jul - Jun), 2022",rural,Person,56.51
+India,Delhi,"PLFS Year (Jul - Jun), 2022",urban,Male,27.37
+India,Delhi,"PLFS Year (Jul - Jun), 2022",urban,Female,29.84
+India,Delhi,"PLFS Year (Jul - Jun), 2022",urban,Person,23.04
+India,Delhi,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,25.77
+India,Delhi,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,29.84
+India,Delhi,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,22.04
+India,Goa,"PLFS Year (Jul - Jun), 2022",rural,Male,48.63
+India,Goa,"PLFS Year (Jul - Jun), 2022",rural,Female,27.19
+India,Goa,"PLFS Year (Jul - Jun), 2022",rural,Person,31.19
+India,Goa,"PLFS Year (Jul - Jun), 2022",urban,Male,10.82
+India,Goa,"PLFS Year (Jul - Jun), 2022",urban,Female,6.67
+India,Goa,"PLFS Year (Jul - Jun), 2022",urban,Person,9.56
+India,Goa,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,22.12
+India,Goa,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,14.87
+India,Goa,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,15.64
+India,Gujarat,"PLFS Year (Jul - Jun), 2022",rural,Male,22.76
+India,Gujarat,"PLFS Year (Jul - Jun), 2022",rural,Female,35.04
+India,Gujarat,"PLFS Year (Jul - Jun), 2022",rural,Person,19.63
+India,Gujarat,"PLFS Year (Jul - Jun), 2022",urban,Male,24.73
+India,Gujarat,"PLFS Year (Jul - Jun), 2022",urban,Female,29.81
+India,Gujarat,"PLFS Year (Jul - Jun), 2022",urban,Person,19.08
+India,Gujarat,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,16.74
+India,Gujarat,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,21.61
+India,Gujarat,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,13.48
+India,Haryana,"PLFS Year (Jul - Jun), 2022",rural,Male,15.25
+India,Haryana,"PLFS Year (Jul - Jun), 2022",rural,Female,32.49
+India,Haryana,"PLFS Year (Jul - Jun), 2022",rural,Person,14.31
+India,Haryana,"PLFS Year (Jul - Jun), 2022",urban,Male,11.55
+India,Haryana,"PLFS Year (Jul - Jun), 2022",urban,Female,16.74
+India,Haryana,"PLFS Year (Jul - Jun), 2022",urban,Person,8.55
+India,Haryana,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,11.31
+India,Haryana,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,20.63
+India,Haryana,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,10.25
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Male,10.92
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Female,19.71
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Person,8.83
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Male,15.14
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Female,30.97
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Person,24.3
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,9.75
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,16.82
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,8.42
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2022",rural,Male,17.28
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2022",rural,Female,21.51
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2022",rural,Person,14.6
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2022",urban,Male,9.05
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2022",urban,Female,6.04
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2022",urban,Person,3.47
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,13.41
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,14.66
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,10.53
+India,Jharkhand,"PLFS Year (Jul - Jun), 2022",rural,Male,19.99
+India,Jharkhand,"PLFS Year (Jul - Jun), 2022",rural,Female,54.61
+India,Jharkhand,"PLFS Year (Jul - Jun), 2022",rural,Person,20.26
+India,Jharkhand,"PLFS Year (Jul - Jun), 2022",urban,Male,8.75
+India,Jharkhand,"PLFS Year (Jul - Jun), 2022",urban,Female,49.11
+India,Jharkhand,"PLFS Year (Jul - Jun), 2022",urban,Person,10.09
+India,Jharkhand,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,13.12
+India,Jharkhand,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,38.36
+India,Jharkhand,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,12.8
+India,Karnataka,"PLFS Year (Jul - Jun), 2022",rural,Male,21.96
+India,Karnataka,"PLFS Year (Jul - Jun), 2022",rural,Female,35.58
+India,Karnataka,"PLFS Year (Jul - Jun), 2022",rural,Person,22.49
+India,Karnataka,"PLFS Year (Jul - Jun), 2022",urban,Male,9.77
+India,Karnataka,"PLFS Year (Jul - Jun), 2022",urban,Female,16.09
+India,Karnataka,"PLFS Year (Jul - Jun), 2022",urban,Person,7.5
+India,Karnataka,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,12.91
+India,Karnataka,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,19.64
+India,Karnataka,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,12.65
+India,Kerala,"PLFS Year (Jul - Jun), 2022",rural,Male,13.3
+India,Kerala,"PLFS Year (Jul - Jun), 2022",rural,Female,9.76
+India,Kerala,"PLFS Year (Jul - Jun), 2022",rural,Person,7.9
+India,Kerala,"PLFS Year (Jul - Jun), 2022",urban,Male,7.44
+India,Kerala,"PLFS Year (Jul - Jun), 2022",urban,Female,8.76
+India,Kerala,"PLFS Year (Jul - Jun), 2022",urban,Person,5.48
+India,Kerala,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,7.98
+India,Kerala,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,6.68
+India,Kerala,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,4.99
+India,Ladakh,"PLFS Year (Jul - Jun), 2022",rural,Male,33.63
+India,Ladakh,"PLFS Year (Jul - Jun), 2022",rural,Female,94.52
+India,Ladakh,"PLFS Year (Jul - Jun), 2022",rural,Person,31.05
+India,Ladakh,"PLFS Year (Jul - Jun), 2022",urban,Male,22.63
+India,Ladakh,"PLFS Year (Jul - Jun), 2022",urban,Female,28.47
+India,Ladakh,"PLFS Year (Jul - Jun), 2022",urban,Person,26.92
+India,Ladakh,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,29.07
+India,Ladakh,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,79.93
+India,Ladakh,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,26.32
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2022",rural,Male,35.4
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2022",rural,Female,102.76
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2022",rural,Person,46.85
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2022",urban,Male,12.12
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2022",urban,Female,3.64
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2022",urban,Person,8.19
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,12.73
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,18.95
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,12.74
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Male,11.35
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Female,23.35
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Person,11.97
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Male,9.29
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Female,20.94
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Person,10.05
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,7.82
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,17.99
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,8.43
+India,Maharashtra,"PLFS Year (Jul - Jun), 2022",rural,Male,9.8
+India,Maharashtra,"PLFS Year (Jul - Jun), 2022",rural,Female,14.25
+India,Maharashtra,"PLFS Year (Jul - Jun), 2022",rural,Person,8.64
+India,Maharashtra,"PLFS Year (Jul - Jun), 2022",urban,Male,8.19
+India,Maharashtra,"PLFS Year (Jul - Jun), 2022",urban,Female,12.23
+India,Maharashtra,"PLFS Year (Jul - Jun), 2022",urban,Person,7.62
+India,Maharashtra,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,6.58
+India,Maharashtra,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,9.21
+India,Maharashtra,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,5.78
+India,Manipur,"PLFS Year (Jul - Jun), 2022",rural,Male,23.94
+India,Manipur,"PLFS Year (Jul - Jun), 2022",rural,Female,31.51
+India,Manipur,"PLFS Year (Jul - Jun), 2022",rural,Person,22.88
+India,Manipur,"PLFS Year (Jul - Jun), 2022",urban,Male,5.83
+India,Manipur,"PLFS Year (Jul - Jun), 2022",urban,Female,27.4
+India,Manipur,"PLFS Year (Jul - Jun), 2022",urban,Person,9.32
+India,Manipur,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,15.67
+India,Manipur,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,24.68
+India,Manipur,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,15.86
+India,Meghalaya,"PLFS Year (Jul - Jun), 2022",rural,Male,19.21
+India,Meghalaya,"PLFS Year (Jul - Jun), 2022",rural,Female,22.48
+India,Meghalaya,"PLFS Year (Jul - Jun), 2022",rural,Person,16.71
+India,Meghalaya,"PLFS Year (Jul - Jun), 2022",urban,Male,33.97
+India,Meghalaya,"PLFS Year (Jul - Jun), 2022",urban,Female,26.74
+India,Meghalaya,"PLFS Year (Jul - Jun), 2022",urban,Person,26.49
+India,Meghalaya,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,16.79
+India,Meghalaya,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,17.22
+India,Meghalaya,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,13.91
+India,Mizoram,"PLFS Year (Jul - Jun), 2022",rural,Male,31.96
+India,Mizoram,"PLFS Year (Jul - Jun), 2022",rural,Female,58.7
+India,Mizoram,"PLFS Year (Jul - Jun), 2022",rural,Person,32.63
+India,Mizoram,"PLFS Year (Jul - Jun), 2022",urban,Male,9.35
+India,Mizoram,"PLFS Year (Jul - Jun), 2022",urban,Female,33.07
+India,Mizoram,"PLFS Year (Jul - Jun), 2022",urban,Person,15.89
+India,Mizoram,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,12.05
+India,Mizoram,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,27.67
+India,Mizoram,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,14.21
+India,Nagaland,"PLFS Year (Jul - Jun), 2022",rural,Male,27.61
+India,Nagaland,"PLFS Year (Jul - Jun), 2022",rural,Female,37.28
+India,Nagaland,"PLFS Year (Jul - Jun), 2022",rural,Person,27.24
+India,Nagaland,"PLFS Year (Jul - Jun), 2022",urban,Male,45.86
+India,Nagaland,"PLFS Year (Jul - Jun), 2022",urban,Female,12.51
+India,Nagaland,"PLFS Year (Jul - Jun), 2022",urban,Person,32.62
+India,Nagaland,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,25.32
+India,Nagaland,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,19.5
+India,Nagaland,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,21.04
+India,Odisha,"PLFS Year (Jul - Jun), 2022",rural,Male,11.16
+India,Odisha,"PLFS Year (Jul - Jun), 2022",rural,Female,19.23
+India,Odisha,"PLFS Year (Jul - Jun), 2022",rural,Person,10.9
+India,Odisha,"PLFS Year (Jul - Jun), 2022",urban,Male,13.57
+India,Odisha,"PLFS Year (Jul - Jun), 2022",urban,Female,25.56
+India,Odisha,"PLFS Year (Jul - Jun), 2022",urban,Person,14.25
+India,Odisha,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,9.59
+India,Odisha,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,16.15
+India,Odisha,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,9.34
+India,Puducherry,"PLFS Year (Jul - Jun), 2022",rural,Male,17.7
+India,Puducherry,"PLFS Year (Jul - Jun), 2022",rural,Female,68.0
+India,Puducherry,"PLFS Year (Jul - Jun), 2022",rural,Person,27.61
+India,Puducherry,"PLFS Year (Jul - Jun), 2022",urban,Male,13.23
+India,Puducherry,"PLFS Year (Jul - Jun), 2022",urban,Female,8.71
+India,Puducherry,"PLFS Year (Jul - Jun), 2022",urban,Person,9.75
+India,Puducherry,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,12.41
+India,Puducherry,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,25.14
+India,Puducherry,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,13.46
+India,Punjab,"PLFS Year (Jul - Jun), 2022",rural,Male,11.28
+India,Punjab,"PLFS Year (Jul - Jun), 2022",rural,Female,12.33
+India,Punjab,"PLFS Year (Jul - Jun), 2022",rural,Person,7.82
+India,Punjab,"PLFS Year (Jul - Jun), 2022",urban,Male,9.53
+India,Punjab,"PLFS Year (Jul - Jun), 2022",urban,Female,15.65
+India,Punjab,"PLFS Year (Jul - Jun), 2022",urban,Person,8.6
+India,Punjab,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,8.01
+India,Punjab,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,9.79
+India,Punjab,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,5.97
+India,Rajasthan,"PLFS Year (Jul - Jun), 2022",rural,Male,10.9
+India,Rajasthan,"PLFS Year (Jul - Jun), 2022",rural,Female,21.0
+India,Rajasthan,"PLFS Year (Jul - Jun), 2022",rural,Person,10.2
+India,Rajasthan,"PLFS Year (Jul - Jun), 2022",urban,Male,11.04
+India,Rajasthan,"PLFS Year (Jul - Jun), 2022",urban,Female,21.13
+India,Rajasthan,"PLFS Year (Jul - Jun), 2022",urban,Person,11.73
+India,Rajasthan,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,8.46
+India,Rajasthan,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,15.1
+India,Rajasthan,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,8.0
+India,Sikkim,"PLFS Year (Jul - Jun), 2022",rural,Male,52.23
+India,Sikkim,"PLFS Year (Jul - Jun), 2022",rural,Female,28.01
+India,Sikkim,"PLFS Year (Jul - Jun), 2022",rural,Person,23.67
+India,Sikkim,"PLFS Year (Jul - Jun), 2022",urban,Male,52.92
+India,Sikkim,"PLFS Year (Jul - Jun), 2022",urban,Female,35.37
+India,Sikkim,"PLFS Year (Jul - Jun), 2022",urban,Person,44.12
+India,Sikkim,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,44.16
+India,Sikkim,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,24.8
+India,Sikkim,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,21.18
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2022",rural,Male,12.51
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2022",rural,Female,10.75
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2022",rural,Person,9.15
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2022",urban,Male,5.42
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2022",urban,Female,9.14
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2022",urban,Person,5.15
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,7.67
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,8.19
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,6.18
+India,Telangana,"PLFS Year (Jul - Jun), 2022",rural,Male,18.35
+India,Telangana,"PLFS Year (Jul - Jun), 2022",rural,Female,31.43
+India,Telangana,"PLFS Year (Jul - Jun), 2022",rural,Person,18.82
+India,Telangana,"PLFS Year (Jul - Jun), 2022",urban,Male,6.61
+India,Telangana,"PLFS Year (Jul - Jun), 2022",urban,Female,13.71
+India,Telangana,"PLFS Year (Jul - Jun), 2022",urban,Person,5.89
+India,Telangana,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,9.98
+India,Telangana,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,18.07
+India,Telangana,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,10.31
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2022",rural,Male,70.83
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2022",rural,Female,84.74
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2022",rural,Person,78.14
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2022",urban,Male,53.79
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2022",urban,Female,104.48
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2022",urban,Person,18.39
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,45.75
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,66.12
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,48.19
+India,Tripura,"PLFS Year (Jul - Jun), 2022",rural,Male,34.13
+India,Tripura,"PLFS Year (Jul - Jun), 2022",rural,Female,45.58
+India,Tripura,"PLFS Year (Jul - Jun), 2022",rural,Person,31.84
+India,Tripura,"PLFS Year (Jul - Jun), 2022",urban,Male,10.72
+India,Tripura,"PLFS Year (Jul - Jun), 2022",urban,Female,29.01
+India,Tripura,"PLFS Year (Jul - Jun), 2022",urban,Person,17.49
+India,Tripura,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,26.25
+India,Tripura,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,25.36
+India,Tripura,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,22.9
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Male,9.62
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Female,21.72
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2022",rural,Person,9.07
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Male,9.58
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Female,13.86
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2022",urban,Person,8.7
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,7.13
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,13.39
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,6.62
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2022",rural,Male,19.59
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2022",rural,Female,39.3
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2022",rural,Person,16.57
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2022",urban,Male,14.72
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2022",urban,Female,16.08
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2022",urban,Person,10.78
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,13.9
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,31.15
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,12.13
+India,West Bengal,"PLFS Year (Jul - Jun), 2022",rural,Male,11.88
+India,West Bengal,"PLFS Year (Jul - Jun), 2022",rural,Female,16.78
+India,West Bengal,"PLFS Year (Jul - Jun), 2022",rural,Person,10.03
+India,West Bengal,"PLFS Year (Jul - Jun), 2022",urban,Male,10.27
+India,West Bengal,"PLFS Year (Jul - Jun), 2022",urban,Female,15.75
+India,West Bengal,"PLFS Year (Jul - Jun), 2022",urban,Person,7.91
+India,West Bengal,"PLFS Year (Jul - Jun), 2022",rural + urban,Male,8.41
+India,West Bengal,"PLFS Year (Jul - Jun), 2022",rural + urban,Female,11.78
+India,West Bengal,"PLFS Year (Jul - Jun), 2022",rural + urban,Person,6.97
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2021",rural,Male,21.59
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2021",rural,Female,23.29
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2021",rural,Person,16.97
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2021",urban,Male,28.72
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2021",urban,Female,29.86
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2021",urban,Person,29.95
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,18.32
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,21.43
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,19.0
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Male,10.98
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Female,15.61
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Person,10.28
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Male,7.04
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Female,15.53
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Person,7.95
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,7.97
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,11.87
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,7.56
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Male,23.76
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Female,17.92
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Person,19.14
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Male,32.61
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Female,28.95
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Person,32.98
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,19.85
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,16.17
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,16.66
+India,Assam,"PLFS Year (Jul - Jun), 2021",rural,Male,11.84
+India,Assam,"PLFS Year (Jul - Jun), 2021",rural,Female,22.59
+India,Assam,"PLFS Year (Jul - Jun), 2021",rural,Person,11.91
+India,Assam,"PLFS Year (Jul - Jun), 2021",urban,Male,7.18
+India,Assam,"PLFS Year (Jul - Jun), 2021",urban,Female,12.71
+India,Assam,"PLFS Year (Jul - Jun), 2021",urban,Person,8.81
+India,Assam,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,9.84
+India,Assam,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,17.54
+India,Assam,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,9.71
+India,Bihar,"PLFS Year (Jul - Jun), 2021",rural,Male,9.75
+India,Bihar,"PLFS Year (Jul - Jun), 2021",rural,Female,34.75
+India,Bihar,"PLFS Year (Jul - Jun), 2021",rural,Person,9.27
+India,Bihar,"PLFS Year (Jul - Jun), 2021",urban,Male,11.07
+India,Bihar,"PLFS Year (Jul - Jun), 2021",urban,Female,28.02
+India,Bihar,"PLFS Year (Jul - Jun), 2021",urban,Person,11.49
+India,Bihar,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,8.59
+India,Bihar,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,26.66
+India,Bihar,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,8.13
+India,Chandigarh,"PLFS Year (Jul - Jun), 2021",rural,Male,47.35
+India,Chandigarh,"PLFS Year (Jul - Jun), 2021",rural,Female,165.92
+India,Chandigarh,"PLFS Year (Jul - Jun), 2021",rural,Person,57.97
+India,Chandigarh,"PLFS Year (Jul - Jun), 2021",urban,Male,12.37
+India,Chandigarh,"PLFS Year (Jul - Jun), 2021",urban,Female,37.84
+India,Chandigarh,"PLFS Year (Jul - Jun), 2021",urban,Person,1.03
+India,Chandigarh,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,12.01
+India,Chandigarh,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,37.91
+India,Chandigarh,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,2.72
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2021",rural,Male,15.75
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2021",rural,Female,17.0
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2021",rural,Person,13.06
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2021",urban,Male,16.43
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2021",urban,Female,42.53
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2021",urban,Person,21.02
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,11.49
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,17.49
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,10.71
+India,Delhi,"PLFS Year (Jul - Jun), 2021",rural,Male,113.36
+India,Delhi,"PLFS Year (Jul - Jun), 2021",rural,Female,0.0
+India,Delhi,"PLFS Year (Jul - Jun), 2021",rural,Person,107.61
+India,Delhi,"PLFS Year (Jul - Jun), 2021",urban,Male,24.19
+India,Delhi,"PLFS Year (Jul - Jun), 2021",urban,Female,11.02
+India,Delhi,"PLFS Year (Jul - Jun), 2021",urban,Person,19.67
+India,Delhi,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,23.79
+India,Delhi,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,11.17
+India,Delhi,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,19.42
+India,Goa,"PLFS Year (Jul - Jun), 2021",rural,Male,60.36
+India,Goa,"PLFS Year (Jul - Jun), 2021",rural,Female,39.2
+India,Goa,"PLFS Year (Jul - Jun), 2021",rural,Person,51.0
+India,Goa,"PLFS Year (Jul - Jun), 2021",urban,Male,7.6
+India,Goa,"PLFS Year (Jul - Jun), 2021",urban,Female,27.25
+India,Goa,"PLFS Year (Jul - Jun), 2021",urban,Person,15.09
+India,Goa,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,26.98
+India,Goa,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,22.63
+India,Goa,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,23.36
+India,Gujarat,"PLFS Year (Jul - Jun), 2021",rural,Male,20.54
+India,Gujarat,"PLFS Year (Jul - Jun), 2021",rural,Female,41.08
+India,Gujarat,"PLFS Year (Jul - Jun), 2021",rural,Person,19.93
+India,Gujarat,"PLFS Year (Jul - Jun), 2021",urban,Male,22.02
+India,Gujarat,"PLFS Year (Jul - Jun), 2021",urban,Female,19.38
+India,Gujarat,"PLFS Year (Jul - Jun), 2021",urban,Person,17.67
+India,Gujarat,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,15.07
+India,Gujarat,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,20.34
+India,Gujarat,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,13.32
+India,Haryana,"PLFS Year (Jul - Jun), 2021",rural,Male,11.82
+India,Haryana,"PLFS Year (Jul - Jun), 2021",rural,Female,25.12
+India,Haryana,"PLFS Year (Jul - Jun), 2021",rural,Person,9.85
+India,Haryana,"PLFS Year (Jul - Jun), 2021",urban,Male,17.06
+India,Haryana,"PLFS Year (Jul - Jun), 2021",urban,Female,24.15
+India,Haryana,"PLFS Year (Jul - Jun), 2021",urban,Person,16.36
+India,Haryana,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,9.62
+India,Haryana,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,18.94
+India,Haryana,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,8.35
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Male,9.88
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Female,17.94
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Person,7.45
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Male,28.74
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Female,20.12
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Person,21.69
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,9.42
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,15.1
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,7.04
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2021",rural,Male,12.64
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2021",rural,Female,18.82
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2021",rural,Person,9.71
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2021",urban,Male,18.69
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2021",urban,Female,19.71
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2021",urban,Person,15.79
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,10.25
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,12.77
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,7.65
+India,Jharkhand,"PLFS Year (Jul - Jun), 2021",rural,Male,13.11
+India,Jharkhand,"PLFS Year (Jul - Jun), 2021",rural,Female,39.52
+India,Jharkhand,"PLFS Year (Jul - Jun), 2021",rural,Person,13.01
+India,Jharkhand,"PLFS Year (Jul - Jun), 2021",urban,Male,22.81
+India,Jharkhand,"PLFS Year (Jul - Jun), 2021",urban,Female,30.12
+India,Jharkhand,"PLFS Year (Jul - Jun), 2021",urban,Person,22.96
+India,Jharkhand,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,11.32
+India,Jharkhand,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,24.62
+India,Jharkhand,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,11.1
+India,Karnataka,"PLFS Year (Jul - Jun), 2021",rural,Male,15.43
+India,Karnataka,"PLFS Year (Jul - Jun), 2021",rural,Female,27.27
+India,Karnataka,"PLFS Year (Jul - Jun), 2021",rural,Person,14.9
+India,Karnataka,"PLFS Year (Jul - Jun), 2021",urban,Male,10.45
+India,Karnataka,"PLFS Year (Jul - Jun), 2021",urban,Female,17.14
+India,Karnataka,"PLFS Year (Jul - Jun), 2021",urban,Person,11.98
+India,Karnataka,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,10.06
+India,Karnataka,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,15.92
+India,Karnataka,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,9.86
+India,Kerala,"PLFS Year (Jul - Jun), 2021",rural,Male,9.5
+India,Kerala,"PLFS Year (Jul - Jun), 2021",rural,Female,11.81
+India,Kerala,"PLFS Year (Jul - Jun), 2021",rural,Person,7.88
+India,Kerala,"PLFS Year (Jul - Jun), 2021",urban,Male,8.31
+India,Kerala,"PLFS Year (Jul - Jun), 2021",urban,Female,8.51
+India,Kerala,"PLFS Year (Jul - Jun), 2021",urban,Person,7.57
+India,Kerala,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,6.27
+India,Kerala,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,7.55
+India,Kerala,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,5.48
+India,Ladakh,"PLFS Year (Jul - Jun), 2021",rural,Male,51.37
+India,Ladakh,"PLFS Year (Jul - Jun), 2021",rural,Female,102.89
+India,Ladakh,"PLFS Year (Jul - Jun), 2021",rural,Person,56.26
+India,Ladakh,"PLFS Year (Jul - Jun), 2021",urban,Male,23.86
+India,Ladakh,"PLFS Year (Jul - Jun), 2021",urban,Female,15.85
+India,Ladakh,"PLFS Year (Jul - Jun), 2021",urban,Person,19.31
+India,Ladakh,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,45.42
+India,Ladakh,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,51.18
+India,Ladakh,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,48.42
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2021",rural,Male,26.26
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2021",rural,Female,150.23
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2021",rural,Person,56.46
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2021",urban,Male,17.14
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2021",urban,Female,47.27
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2021",urban,Person,5.53
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,15.24
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,50.15
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,8.98
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Male,14.55
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Female,26.88
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Person,14.18
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Male,6.54
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Female,24.88
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Person,7.64
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,10.82
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,19.33
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,10.42
+India,Maharashtra,"PLFS Year (Jul - Jun), 2021",rural,Male,8.57
+India,Maharashtra,"PLFS Year (Jul - Jun), 2021",rural,Female,15.61
+India,Maharashtra,"PLFS Year (Jul - Jun), 2021",rural,Person,7.6
+India,Maharashtra,"PLFS Year (Jul - Jun), 2021",urban,Male,6.8
+India,Maharashtra,"PLFS Year (Jul - Jun), 2021",urban,Female,10.58
+India,Maharashtra,"PLFS Year (Jul - Jun), 2021",urban,Person,5.74
+India,Maharashtra,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,5.53
+India,Maharashtra,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,9.22
+India,Maharashtra,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,4.76
+India,Manipur,"PLFS Year (Jul - Jun), 2021",rural,Male,13.05
+India,Manipur,"PLFS Year (Jul - Jun), 2021",rural,Female,29.73
+India,Manipur,"PLFS Year (Jul - Jun), 2021",rural,Person,14.66
+India,Manipur,"PLFS Year (Jul - Jun), 2021",urban,Male,7.36
+India,Manipur,"PLFS Year (Jul - Jun), 2021",urban,Female,9.25
+India,Manipur,"PLFS Year (Jul - Jun), 2021",urban,Person,3.39
+India,Manipur,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,10.04
+India,Manipur,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,23.66
+India,Manipur,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,11.33
+India,Meghalaya,"PLFS Year (Jul - Jun), 2021",rural,Male,35.55
+India,Meghalaya,"PLFS Year (Jul - Jun), 2021",rural,Female,33.88
+India,Meghalaya,"PLFS Year (Jul - Jun), 2021",rural,Person,32.08
+India,Meghalaya,"PLFS Year (Jul - Jun), 2021",urban,Male,17.23
+India,Meghalaya,"PLFS Year (Jul - Jun), 2021",urban,Female,23.38
+India,Meghalaya,"PLFS Year (Jul - Jun), 2021",urban,Person,17.91
+India,Meghalaya,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,19.63
+India,Meghalaya,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,21.5
+India,Meghalaya,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,18.75
+India,Mizoram,"PLFS Year (Jul - Jun), 2021",rural,Male,32.08
+India,Mizoram,"PLFS Year (Jul - Jun), 2021",rural,Female,38.57
+India,Mizoram,"PLFS Year (Jul - Jun), 2021",rural,Person,29.63
+India,Mizoram,"PLFS Year (Jul - Jun), 2021",urban,Male,9.11
+India,Mizoram,"PLFS Year (Jul - Jun), 2021",urban,Female,17.62
+India,Mizoram,"PLFS Year (Jul - Jun), 2021",urban,Person,9.2
+India,Mizoram,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,14.0
+India,Mizoram,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,18.68
+India,Mizoram,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,13.17
+India,Nagaland,"PLFS Year (Jul - Jun), 2021",rural,Male,19.38
+India,Nagaland,"PLFS Year (Jul - Jun), 2021",rural,Female,25.26
+India,Nagaland,"PLFS Year (Jul - Jun), 2021",rural,Person,20.06
+India,Nagaland,"PLFS Year (Jul - Jun), 2021",urban,Male,8.49
+India,Nagaland,"PLFS Year (Jul - Jun), 2021",urban,Female,28.22
+India,Nagaland,"PLFS Year (Jul - Jun), 2021",urban,Person,16.76
+India,Nagaland,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,14.01
+India,Nagaland,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,19.66
+India,Nagaland,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,14.85
+India,Odisha,"PLFS Year (Jul - Jun), 2021",rural,Male,8.91
+India,Odisha,"PLFS Year (Jul - Jun), 2021",rural,Female,22.06
+India,Odisha,"PLFS Year (Jul - Jun), 2021",rural,Person,10.19
+India,Odisha,"PLFS Year (Jul - Jun), 2021",urban,Male,11.96
+India,Odisha,"PLFS Year (Jul - Jun), 2021",urban,Female,22.74
+India,Odisha,"PLFS Year (Jul - Jun), 2021",urban,Person,4.69
+India,Odisha,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,7.79
+India,Odisha,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,17.24
+India,Odisha,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,8.43
+India,Puducherry,"PLFS Year (Jul - Jun), 2021",rural,Male,16.6
+India,Puducherry,"PLFS Year (Jul - Jun), 2021",rural,Female,84.52
+India,Puducherry,"PLFS Year (Jul - Jun), 2021",rural,Person,5.43
+India,Puducherry,"PLFS Year (Jul - Jun), 2021",urban,Male,32.56
+India,Puducherry,"PLFS Year (Jul - Jun), 2021",urban,Female,25.22
+India,Puducherry,"PLFS Year (Jul - Jun), 2021",urban,Person,29.65
+India,Puducherry,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,16.7
+India,Puducherry,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,24.23
+India,Puducherry,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,15.53
+India,Punjab,"PLFS Year (Jul - Jun), 2021",rural,Male,9.39
+India,Punjab,"PLFS Year (Jul - Jun), 2021",rural,Female,20.8
+India,Punjab,"PLFS Year (Jul - Jun), 2021",rural,Person,10.69
+India,Punjab,"PLFS Year (Jul - Jun), 2021",urban,Male,7.61
+India,Punjab,"PLFS Year (Jul - Jun), 2021",urban,Female,20.39
+India,Punjab,"PLFS Year (Jul - Jun), 2021",urban,Person,3.65
+India,Punjab,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,6.96
+India,Punjab,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,17.07
+India,Punjab,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,7.82
+India,Rajasthan,"PLFS Year (Jul - Jun), 2021",rural,Male,8.08
+India,Rajasthan,"PLFS Year (Jul - Jun), 2021",rural,Female,21.2
+India,Rajasthan,"PLFS Year (Jul - Jun), 2021",rural,Person,7.3
+India,Rajasthan,"PLFS Year (Jul - Jun), 2021",urban,Male,9.61
+India,Rajasthan,"PLFS Year (Jul - Jun), 2021",urban,Female,16.6
+India,Rajasthan,"PLFS Year (Jul - Jun), 2021",urban,Person,10.61
+India,Rajasthan,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,6.32
+India,Rajasthan,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,15.46
+India,Rajasthan,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,6.38
+India,Sikkim,"PLFS Year (Jul - Jun), 2021",rural,Male,31.55
+India,Sikkim,"PLFS Year (Jul - Jun), 2021",rural,Female,44.71
+India,Sikkim,"PLFS Year (Jul - Jun), 2021",rural,Person,31.42
+India,Sikkim,"PLFS Year (Jul - Jun), 2021",urban,Male,66.18
+India,Sikkim,"PLFS Year (Jul - Jun), 2021",urban,Female,52.87
+India,Sikkim,"PLFS Year (Jul - Jun), 2021",urban,Person,62.82
+India,Sikkim,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,29.33
+India,Sikkim,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,36.17
+India,Sikkim,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,29.58
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2021",rural,Male,10.44
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2021",rural,Female,12.73
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2021",rural,Person,8.79
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2021",urban,Male,5.77
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2021",urban,Female,9.76
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2021",urban,Person,5.9
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,6.38
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,9.43
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,5.86
+India,Telangana,"PLFS Year (Jul - Jun), 2021",rural,Male,12.38
+India,Telangana,"PLFS Year (Jul - Jun), 2021",rural,Female,32.02
+India,Telangana,"PLFS Year (Jul - Jun), 2021",rural,Person,14.96
+India,Telangana,"PLFS Year (Jul - Jun), 2021",urban,Male,13.29
+India,Telangana,"PLFS Year (Jul - Jun), 2021",urban,Female,18.02
+India,Telangana,"PLFS Year (Jul - Jun), 2021",urban,Person,13.82
+India,Telangana,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,9.32
+India,Telangana,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,17.79
+India,Telangana,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,10.51
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2021",rural,Male,28.48
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2021",rural,Female,40.34
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2021",rural,Person,28.71
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2021",urban,Male,25.74
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2021",urban,Female,58.49
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2021",urban,Person,37.83
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,23.44
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,37.21
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,24.53
+India,Tripura,"PLFS Year (Jul - Jun), 2021",rural,Male,24.47
+India,Tripura,"PLFS Year (Jul - Jun), 2021",rural,Female,20.89
+India,Tripura,"PLFS Year (Jul - Jun), 2021",rural,Person,15.43
+India,Tripura,"PLFS Year (Jul - Jun), 2021",urban,Male,21.76
+India,Tripura,"PLFS Year (Jul - Jun), 2021",urban,Female,23.64
+India,Tripura,"PLFS Year (Jul - Jun), 2021",urban,Person,12.78
+India,Tripura,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,19.29
+India,Tripura,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,19.4
+India,Tripura,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,13.14
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Male,7.79
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Female,21.76
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2021",rural,Person,7.73
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Male,7.63
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Female,25.34
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2021",urban,Person,5.29
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,5.82
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,16.84
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,5.48
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2021",rural,Male,21.27
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2021",rural,Female,34.6
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2021",rural,Person,21.28
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2021",urban,Male,10.1
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2021",urban,Female,18.17
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2021",urban,Person,7.97
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,15.96
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,19.32
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,15.11
+India,West Bengal,"PLFS Year (Jul - Jun), 2021",rural,Male,10.16
+India,West Bengal,"PLFS Year (Jul - Jun), 2021",rural,Female,23.32
+India,West Bengal,"PLFS Year (Jul - Jun), 2021",rural,Person,9.91
+India,West Bengal,"PLFS Year (Jul - Jun), 2021",urban,Male,6.55
+India,West Bengal,"PLFS Year (Jul - Jun), 2021",urban,Female,17.9
+India,West Bengal,"PLFS Year (Jul - Jun), 2021",urban,Person,5.77
+India,West Bengal,"PLFS Year (Jul - Jun), 2021",rural + urban,Male,7.6
+India,West Bengal,"PLFS Year (Jul - Jun), 2021",rural + urban,Female,16.2
+India,West Bengal,"PLFS Year (Jul - Jun), 2021",rural + urban,Person,7.27
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2020",rural,Male,31.17
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2020",rural,Female,19.62
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2020",rural,Person,16.67
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2020",urban,Male,20.73
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2020",urban,Female,16.0
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2020",urban,Person,17.67
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,19.79
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,12.66
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,12.13
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Male,10.15
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Female,15.96
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Person,9.35
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Male,7.19
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Female,8.18
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Person,4.86
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,7.14
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,11.24
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,6.48
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Male,15.57
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Female,21.93
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Person,16.07
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Male,11.38
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Female,20.99
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Person,14.86
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,11.35
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,17.68
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,12.46
+India,Assam,"PLFS Year (Jul - Jun), 2020",rural,Male,14.55
+India,Assam,"PLFS Year (Jul - Jun), 2020",rural,Female,21.69
+India,Assam,"PLFS Year (Jul - Jun), 2020",rural,Person,11.86
+India,Assam,"PLFS Year (Jul - Jun), 2020",urban,Male,17.08
+India,Assam,"PLFS Year (Jul - Jun), 2020",urban,Female,15.74
+India,Assam,"PLFS Year (Jul - Jun), 2020",urban,Person,13.28
+India,Assam,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,12.34
+India,Assam,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,16.93
+India,Assam,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,9.81
+India,Bihar,"PLFS Year (Jul - Jun), 2020",rural,Male,13.63
+India,Bihar,"PLFS Year (Jul - Jun), 2020",rural,Female,50.65
+India,Bihar,"PLFS Year (Jul - Jun), 2020",rural,Person,13.04
+India,Bihar,"PLFS Year (Jul - Jun), 2020",urban,Male,15.81
+India,Bihar,"PLFS Year (Jul - Jun), 2020",urban,Female,41.39
+India,Bihar,"PLFS Year (Jul - Jun), 2020",urban,Person,19.03
+India,Bihar,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,11.6
+India,Bihar,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,39.29
+India,Bihar,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,11.28
+India,Chandigarh,"PLFS Year (Jul - Jun), 2020",rural,Male,100.16
+India,Chandigarh,"PLFS Year (Jul - Jun), 2020",rural,Female,150.5
+India,Chandigarh,"PLFS Year (Jul - Jun), 2020",rural,Person,24.32
+India,Chandigarh,"PLFS Year (Jul - Jun), 2020",urban,Male,5.07
+India,Chandigarh,"PLFS Year (Jul - Jun), 2020",urban,Female,19.16
+India,Chandigarh,"PLFS Year (Jul - Jun), 2020",urban,Person,7.05
+India,Chandigarh,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,5.54
+India,Chandigarh,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,19.11
+India,Chandigarh,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,7.33
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2020",rural,Male,13.71
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2020",rural,Female,23.71
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2020",rural,Person,13.94
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2020",urban,Male,13.9
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2020",urban,Female,20.89
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2020",urban,Person,8.27
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,11.54
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,18.93
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,11.42
+India,Delhi,"PLFS Year (Jul - Jun), 2020",rural,Male,15.05
+India,Delhi,"PLFS Year (Jul - Jun), 2020",rural,Female,50.05
+India,Delhi,"PLFS Year (Jul - Jun), 2020",rural,Person,17.83
+India,Delhi,"PLFS Year (Jul - Jun), 2020",urban,Male,9.15
+India,Delhi,"PLFS Year (Jul - Jun), 2020",urban,Female,29.08
+India,Delhi,"PLFS Year (Jul - Jun), 2020",urban,Person,6.72
+India,Delhi,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,8.95
+India,Delhi,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,28.86
+India,Delhi,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,6.6
+India,Goa,"PLFS Year (Jul - Jun), 2020",rural,Male,33.01
+India,Goa,"PLFS Year (Jul - Jun), 2020",rural,Female,53.36
+India,Goa,"PLFS Year (Jul - Jun), 2020",rural,Person,40.07
+India,Goa,"PLFS Year (Jul - Jun), 2020",urban,Male,32.19
+India,Goa,"PLFS Year (Jul - Jun), 2020",urban,Female,25.32
+India,Goa,"PLFS Year (Jul - Jun), 2020",urban,Person,29.42
+India,Goa,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,24.19
+India,Goa,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,28.85
+India,Goa,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,23.86
+India,Gujarat,"PLFS Year (Jul - Jun), 2020",rural,Male,17.89
+India,Gujarat,"PLFS Year (Jul - Jun), 2020",rural,Female,36.91
+India,Gujarat,"PLFS Year (Jul - Jun), 2020",rural,Person,19.15
+India,Gujarat,"PLFS Year (Jul - Jun), 2020",urban,Male,14.25
+India,Gujarat,"PLFS Year (Jul - Jun), 2020",urban,Female,32.22
+India,Gujarat,"PLFS Year (Jul - Jun), 2020",urban,Person,18.12
+India,Gujarat,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,12.34
+India,Gujarat,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,25.02
+India,Gujarat,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,14.55
+India,Haryana,"PLFS Year (Jul - Jun), 2020",rural,Male,13.16
+India,Haryana,"PLFS Year (Jul - Jun), 2020",rural,Female,32.65
+India,Haryana,"PLFS Year (Jul - Jun), 2020",rural,Person,12.48
+India,Haryana,"PLFS Year (Jul - Jun), 2020",urban,Male,6.84
+India,Haryana,"PLFS Year (Jul - Jun), 2020",urban,Female,25.46
+India,Haryana,"PLFS Year (Jul - Jun), 2020",urban,Person,8.83
+India,Haryana,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,9.01
+India,Haryana,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,19.25
+India,Haryana,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,8.49
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Male,11.57
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Female,14.83
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Person,10.6
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Male,39.11
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Female,20.29
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Person,31.43
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,11.11
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,13.65
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,10.07
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2020",rural,Male,12.53
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2020",rural,Female,17.0
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2020",rural,Person,10.74
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2020",urban,Male,12.05
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2020",urban,Female,10.91
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2020",urban,Person,6.05
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,9.48
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,11.54
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,7.38
+India,Jharkhand,"PLFS Year (Jul - Jun), 2020",rural,Male,13.05
+India,Jharkhand,"PLFS Year (Jul - Jun), 2020",rural,Female,46.55
+India,Jharkhand,"PLFS Year (Jul - Jun), 2020",rural,Person,13.18
+India,Jharkhand,"PLFS Year (Jul - Jun), 2020",urban,Male,6.7
+India,Jharkhand,"PLFS Year (Jul - Jun), 2020",urban,Female,18.91
+India,Jharkhand,"PLFS Year (Jul - Jun), 2020",urban,Person,6.1
+India,Jharkhand,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,9.34
+India,Jharkhand,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,23.18
+India,Jharkhand,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,9.16
+India,Karnataka,"PLFS Year (Jul - Jun), 2020",rural,Male,18.47
+India,Karnataka,"PLFS Year (Jul - Jun), 2020",rural,Female,24.58
+India,Karnataka,"PLFS Year (Jul - Jun), 2020",rural,Person,17.39
+India,Karnataka,"PLFS Year (Jul - Jun), 2020",urban,Male,9.99
+India,Karnataka,"PLFS Year (Jul - Jun), 2020",urban,Female,12.94
+India,Karnataka,"PLFS Year (Jul - Jun), 2020",urban,Person,9.13
+India,Karnataka,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,11.55
+India,Karnataka,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,14.96
+India,Karnataka,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,10.75
+India,Kerala,"PLFS Year (Jul - Jun), 2020",rural,Male,7.31
+India,Kerala,"PLFS Year (Jul - Jun), 2020",rural,Female,7.62
+India,Kerala,"PLFS Year (Jul - Jun), 2020",rural,Person,4.45
+India,Kerala,"PLFS Year (Jul - Jun), 2020",urban,Male,6.22
+India,Kerala,"PLFS Year (Jul - Jun), 2020",urban,Female,7.78
+India,Kerala,"PLFS Year (Jul - Jun), 2020",urban,Person,3.66
+India,Kerala,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,4.8
+India,Kerala,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,5.48
+India,Kerala,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,2.89
+India,Ladakh,"PLFS Year (Jul - Jun), 2020",rural,Male,52.9
+India,Ladakh,"PLFS Year (Jul - Jun), 2020",rural,Female,38.86
+India,Ladakh,"PLFS Year (Jul - Jun), 2020",rural,Person,51.81
+India,Ladakh,"PLFS Year (Jul - Jun), 2020",urban,Male,23.33
+India,Ladakh,"PLFS Year (Jul - Jun), 2020",urban,Female,23.83
+India,Ladakh,"PLFS Year (Jul - Jun), 2020",urban,Person,12.77
+India,Ladakh,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,49.7
+India,Ladakh,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,16.51
+India,Ladakh,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,41.05
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2020",rural,Male,0.0
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2020",rural,Female,38.44
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2020",rural,Person,92.33
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2020",urban,Male,34.77
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2020",urban,Female,15.88
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2020",urban,Person,35.85
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,34.78
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,21.01
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,35.51
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Male,11.71
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Female,21.99
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Person,9.94
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Male,9.14
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Female,18.69
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Person,8.72
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,8.35
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,15.16
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,7.16
+India,Maharashtra,"PLFS Year (Jul - Jun), 2020",rural,Male,9.69
+India,Maharashtra,"PLFS Year (Jul - Jun), 2020",rural,Female,20.61
+India,Maharashtra,"PLFS Year (Jul - Jun), 2020",rural,Person,10.17
+India,Maharashtra,"PLFS Year (Jul - Jun), 2020",urban,Male,7.99
+India,Maharashtra,"PLFS Year (Jul - Jun), 2020",urban,Female,6.54
+India,Maharashtra,"PLFS Year (Jul - Jun), 2020",urban,Person,6.06
+India,Maharashtra,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,6.13
+India,Maharashtra,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,9.03
+India,Maharashtra,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,5.49
+India,Manipur,"PLFS Year (Jul - Jun), 2020",rural,Male,15.15
+India,Manipur,"PLFS Year (Jul - Jun), 2020",rural,Female,29.98
+India,Manipur,"PLFS Year (Jul - Jun), 2020",rural,Person,14.67
+India,Manipur,"PLFS Year (Jul - Jun), 2020",urban,Male,21.61
+India,Manipur,"PLFS Year (Jul - Jun), 2020",urban,Female,21.47
+India,Manipur,"PLFS Year (Jul - Jun), 2020",urban,Person,16.06
+India,Manipur,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,14.1
+India,Manipur,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,18.57
+India,Manipur,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,11.7
+India,Meghalaya,"PLFS Year (Jul - Jun), 2020",rural,Male,29.69
+India,Meghalaya,"PLFS Year (Jul - Jun), 2020",rural,Female,36.63
+India,Meghalaya,"PLFS Year (Jul - Jun), 2020",rural,Person,25.2
+India,Meghalaya,"PLFS Year (Jul - Jun), 2020",urban,Male,15.52
+India,Meghalaya,"PLFS Year (Jul - Jun), 2020",urban,Female,25.96
+India,Meghalaya,"PLFS Year (Jul - Jun), 2020",urban,Person,17.06
+India,Meghalaya,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,15.53
+India,Meghalaya,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,24.36
+India,Meghalaya,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,15.14
+India,Mizoram,"PLFS Year (Jul - Jun), 2020",rural,Male,26.0
+India,Mizoram,"PLFS Year (Jul - Jun), 2020",rural,Female,49.3
+India,Mizoram,"PLFS Year (Jul - Jun), 2020",rural,Person,30.21
+India,Mizoram,"PLFS Year (Jul - Jun), 2020",urban,Male,26.99
+India,Mizoram,"PLFS Year (Jul - Jun), 2020",urban,Female,17.6
+India,Mizoram,"PLFS Year (Jul - Jun), 2020",urban,Person,13.08
+India,Mizoram,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,19.69
+India,Mizoram,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,25.34
+India,Mizoram,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,15.35
+India,Nagaland,"PLFS Year (Jul - Jun), 2020",rural,Male,10.79
+India,Nagaland,"PLFS Year (Jul - Jun), 2020",rural,Female,17.69
+India,Nagaland,"PLFS Year (Jul - Jun), 2020",rural,Person,11.4
+India,Nagaland,"PLFS Year (Jul - Jun), 2020",urban,Male,8.62
+India,Nagaland,"PLFS Year (Jul - Jun), 2020",urban,Female,4.12
+India,Nagaland,"PLFS Year (Jul - Jun), 2020",urban,Person,4.83
+India,Nagaland,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,8.14
+India,Nagaland,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,11.68
+India,Nagaland,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,8.05
+India,Odisha,"PLFS Year (Jul - Jun), 2020",rural,Male,7.71
+India,Odisha,"PLFS Year (Jul - Jun), 2020",rural,Female,18.21
+India,Odisha,"PLFS Year (Jul - Jun), 2020",rural,Person,7.6
+India,Odisha,"PLFS Year (Jul - Jun), 2020",urban,Male,10.22
+India,Odisha,"PLFS Year (Jul - Jun), 2020",urban,Female,16.73
+India,Odisha,"PLFS Year (Jul - Jun), 2020",urban,Person,7.07
+India,Odisha,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,6.72
+India,Odisha,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,14.74
+India,Odisha,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,6.46
+India,Puducherry,"PLFS Year (Jul - Jun), 2020",rural,Male,21.22
+India,Puducherry,"PLFS Year (Jul - Jun), 2020",rural,Female,95.98
+India,Puducherry,"PLFS Year (Jul - Jun), 2020",rural,Person,37.15
+India,Puducherry,"PLFS Year (Jul - Jun), 2020",urban,Male,7.28
+India,Puducherry,"PLFS Year (Jul - Jun), 2020",urban,Female,23.13
+India,Puducherry,"PLFS Year (Jul - Jun), 2020",urban,Person,10.5
+India,Puducherry,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,9.86
+India,Puducherry,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,45.03
+India,Puducherry,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,17.0
+India,Punjab,"PLFS Year (Jul - Jun), 2020",rural,Male,9.82
+India,Punjab,"PLFS Year (Jul - Jun), 2020",rural,Female,17.09
+India,Punjab,"PLFS Year (Jul - Jun), 2020",rural,Person,8.1
+India,Punjab,"PLFS Year (Jul - Jun), 2020",urban,Male,13.22
+India,Punjab,"PLFS Year (Jul - Jun), 2020",urban,Female,24.88
+India,Punjab,"PLFS Year (Jul - Jun), 2020",urban,Person,10.18
+India,Punjab,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,7.93
+India,Punjab,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,14.15
+India,Punjab,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,6.39
+India,Rajasthan,"PLFS Year (Jul - Jun), 2020",rural,Male,8.62
+India,Rajasthan,"PLFS Year (Jul - Jun), 2020",rural,Female,26.52
+India,Rajasthan,"PLFS Year (Jul - Jun), 2020",rural,Person,8.71
+India,Rajasthan,"PLFS Year (Jul - Jun), 2020",urban,Male,3.91
+India,Rajasthan,"PLFS Year (Jul - Jun), 2020",urban,Female,14.45
+India,Rajasthan,"PLFS Year (Jul - Jun), 2020",urban,Person,4.78
+India,Rajasthan,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,6.37
+India,Rajasthan,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,13.86
+India,Rajasthan,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,6.26
+India,Sikkim,"PLFS Year (Jul - Jun), 2020",rural,Male,41.98
+India,Sikkim,"PLFS Year (Jul - Jun), 2020",rural,Female,52.96
+India,Sikkim,"PLFS Year (Jul - Jun), 2020",rural,Person,38.5
+India,Sikkim,"PLFS Year (Jul - Jun), 2020",urban,Male,18.8
+India,Sikkim,"PLFS Year (Jul - Jun), 2020",urban,Female,20.74
+India,Sikkim,"PLFS Year (Jul - Jun), 2020",urban,Person,19.17
+India,Sikkim,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,19.74
+India,Sikkim,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,26.26
+India,Sikkim,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,19.35
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2020",rural,Male,9.63
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2020",rural,Female,10.95
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2020",rural,Person,7.32
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2020",urban,Male,8.11
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2020",urban,Female,10.94
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2020",urban,Person,6.41
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,6.52
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,7.99
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,5.06
+India,Telangana,"PLFS Year (Jul - Jun), 2020",rural,Male,18.11
+India,Telangana,"PLFS Year (Jul - Jun), 2020",rural,Female,23.47
+India,Telangana,"PLFS Year (Jul - Jun), 2020",rural,Person,15.03
+India,Telangana,"PLFS Year (Jul - Jun), 2020",urban,Male,8.58
+India,Telangana,"PLFS Year (Jul - Jun), 2020",urban,Female,9.45
+India,Telangana,"PLFS Year (Jul - Jun), 2020",urban,Person,4.62
+India,Telangana,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,9.75
+India,Telangana,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,11.19
+India,Telangana,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,7.19
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2020",rural,Male,22.42
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2020",rural,Female,0.0
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2020",rural,Person,23.34
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2020",urban,Male,47.57
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2020",urban,Female,55.67
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2020",urban,Person,39.56
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,19.77
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,48.26
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,20.04
+India,Tripura,"PLFS Year (Jul - Jun), 2020",rural,Male,17.03
+India,Tripura,"PLFS Year (Jul - Jun), 2020",rural,Female,20.26
+India,Tripura,"PLFS Year (Jul - Jun), 2020",rural,Person,14.28
+India,Tripura,"PLFS Year (Jul - Jun), 2020",urban,Male,31.24
+India,Tripura,"PLFS Year (Jul - Jun), 2020",urban,Female,16.06
+India,Tripura,"PLFS Year (Jul - Jun), 2020",urban,Person,17.78
+India,Tripura,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,14.75
+India,Tripura,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,15.98
+India,Tripura,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,11.44
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Male,7.52
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Female,25.94
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2020",rural,Person,7.27
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Male,6.65
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Female,16.38
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2020",urban,Person,6.15
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,5.77
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,15.9
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,5.42
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2020",rural,Male,20.72
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2020",rural,Female,33.21
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2020",rural,Person,21.0
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2020",urban,Male,26.32
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2020",urban,Female,12.84
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2020",urban,Person,21.33
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,16.42
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,21.4
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,15.71
+India,West Bengal,"PLFS Year (Jul - Jun), 2020",rural,Male,10.84
+India,West Bengal,"PLFS Year (Jul - Jun), 2020",rural,Female,32.92
+India,West Bengal,"PLFS Year (Jul - Jun), 2020",rural,Person,12.16
+India,West Bengal,"PLFS Year (Jul - Jun), 2020",urban,Male,6.57
+India,West Bengal,"PLFS Year (Jul - Jun), 2020",urban,Female,14.09
+India,West Bengal,"PLFS Year (Jul - Jun), 2020",urban,Person,6.42
+India,West Bengal,"PLFS Year (Jul - Jun), 2020",rural + urban,Male,7.64
+India,West Bengal,"PLFS Year (Jul - Jun), 2020",rural + urban,Female,22.27
+India,West Bengal,"PLFS Year (Jul - Jun), 2020",rural + urban,Person,8.47
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2019",rural,Male,8.52
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2019",rural,Female,13.15
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2019",rural,Person,9.92
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2019",urban,Male,10.78
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2019",urban,Female,15.06
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2019",urban,Person,15.85
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,6.84
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,9.99
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,8.69
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Male,12.5
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Female,16.04
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Person,12.04
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Male,9.71
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Female,14.21
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Person,9.28
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,8.53
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,11.77
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,8.31
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Male,16.01
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Female,13.82
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Person,12.46
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Male,16.15
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Female,11.47
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Person,10.29
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,12.89
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,11.45
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,10.05
+India,Assam,"PLFS Year (Jul - Jun), 2019",rural,Male,8.48
+India,Assam,"PLFS Year (Jul - Jun), 2019",rural,Female,21.32
+India,Assam,"PLFS Year (Jul - Jun), 2019",rural,Person,9.98
+India,Assam,"PLFS Year (Jul - Jun), 2019",urban,Male,12.02
+India,Assam,"PLFS Year (Jul - Jun), 2019",urban,Female,15.68
+India,Assam,"PLFS Year (Jul - Jun), 2019",urban,Person,12.4
+India,Assam,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,7.67
+India,Assam,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,17.27
+India,Assam,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,8.81
+India,Bihar,"PLFS Year (Jul - Jun), 2019",rural,Male,9.36
+India,Bihar,"PLFS Year (Jul - Jun), 2019",rural,Female,62.61
+India,Bihar,"PLFS Year (Jul - Jun), 2019",rural,Person,9.22
+India,Bihar,"PLFS Year (Jul - Jun), 2019",urban,Male,11.83
+India,Bihar,"PLFS Year (Jul - Jun), 2019",urban,Female,21.56
+India,Bihar,"PLFS Year (Jul - Jun), 2019",urban,Person,10.79
+India,Bihar,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,8.14
+India,Bihar,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,27.36
+India,Bihar,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,7.88
+India,Chandigarh,"PLFS Year (Jul - Jun), 2019",rural,Male,15.45
+India,Chandigarh,"PLFS Year (Jul - Jun), 2019",rural,Female,54.32
+India,Chandigarh,"PLFS Year (Jul - Jun), 2019",rural,Person,30.99
+India,Chandigarh,"PLFS Year (Jul - Jun), 2019",urban,Male,57.79
+India,Chandigarh,"PLFS Year (Jul - Jun), 2019",urban,Female,96.51
+India,Chandigarh,"PLFS Year (Jul - Jun), 2019",urban,Person,34.77
+India,Chandigarh,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,56.46
+India,Chandigarh,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,73.57
+India,Chandigarh,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,32.65
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2019",rural,Male,15.63
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2019",rural,Female,20.6
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2019",rural,Person,14.51
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2019",urban,Male,9.81
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2019",urban,Female,20.82
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2019",urban,Person,10.6
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,11.62
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,15.26
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,10.76
+India,Delhi,"PLFS Year (Jul - Jun), 2019",rural,Male,44.85
+India,Delhi,"PLFS Year (Jul - Jun), 2019",rural,Female,0.0
+India,Delhi,"PLFS Year (Jul - Jun), 2019",rural,Person,64.55
+India,Delhi,"PLFS Year (Jul - Jun), 2019",urban,Male,21.01
+India,Delhi,"PLFS Year (Jul - Jun), 2019",urban,Female,27.31
+India,Delhi,"PLFS Year (Jul - Jun), 2019",urban,Person,18.05
+India,Delhi,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,20.83
+India,Delhi,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,27.03
+India,Delhi,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,17.94
+India,Goa,"PLFS Year (Jul - Jun), 2019",rural,Male,33.18
+India,Goa,"PLFS Year (Jul - Jun), 2019",rural,Female,47.53
+India,Goa,"PLFS Year (Jul - Jun), 2019",rural,Person,31.65
+India,Goa,"PLFS Year (Jul - Jun), 2019",urban,Male,13.51
+India,Goa,"PLFS Year (Jul - Jun), 2019",urban,Female,9.72
+India,Goa,"PLFS Year (Jul - Jun), 2019",urban,Person,5.27
+India,Goa,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,15.54
+India,Goa,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,18.19
+India,Goa,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,12.5
+India,Gujarat,"PLFS Year (Jul - Jun), 2019",rural,Male,22.47
+India,Gujarat,"PLFS Year (Jul - Jun), 2019",rural,Female,50.05
+India,Gujarat,"PLFS Year (Jul - Jun), 2019",rural,Person,21.23
+India,Gujarat,"PLFS Year (Jul - Jun), 2019",urban,Male,14.4
+India,Gujarat,"PLFS Year (Jul - Jun), 2019",urban,Female,24.01
+India,Gujarat,"PLFS Year (Jul - Jun), 2019",urban,Person,13.12
+India,Gujarat,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,13.16
+India,Gujarat,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,22.38
+India,Gujarat,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,12.13
+India,Haryana,"PLFS Year (Jul - Jun), 2019",rural,Male,13.3
+India,Haryana,"PLFS Year (Jul - Jun), 2019",rural,Female,31.52
+India,Haryana,"PLFS Year (Jul - Jun), 2019",rural,Person,14.86
+India,Haryana,"PLFS Year (Jul - Jun), 2019",urban,Male,6.57
+India,Haryana,"PLFS Year (Jul - Jun), 2019",urban,Female,22.52
+India,Haryana,"PLFS Year (Jul - Jun), 2019",urban,Person,7.08
+India,Haryana,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,9.34
+India,Haryana,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,21.32
+India,Haryana,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,10.26
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Male,11.65
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Female,16.3
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Person,10.18
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Male,17.53
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Female,21.98
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Person,14.03
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,10.8
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,13.71
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,9.09
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2019",rural,Male,12.01
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2019",rural,Female,12.58
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2019",rural,Person,8.84
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2019",urban,Male,8.45
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2019",urban,Female,5.71
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2019",urban,Person,6.05
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,9.01
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,8.53
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,6.45
+India,Jharkhand,"PLFS Year (Jul - Jun), 2019",rural,Male,16.25
+India,Jharkhand,"PLFS Year (Jul - Jun), 2019",rural,Female,67.15
+India,Jharkhand,"PLFS Year (Jul - Jun), 2019",rural,Person,16.06
+India,Jharkhand,"PLFS Year (Jul - Jun), 2019",urban,Male,8.38
+India,Jharkhand,"PLFS Year (Jul - Jun), 2019",urban,Female,22.49
+India,Jharkhand,"PLFS Year (Jul - Jun), 2019",urban,Person,8.85
+India,Jharkhand,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,11.75
+India,Jharkhand,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,41.72
+India,Jharkhand,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,11.57
+India,Karnataka,"PLFS Year (Jul - Jun), 2019",rural,Male,14.26
+India,Karnataka,"PLFS Year (Jul - Jun), 2019",rural,Female,24.36
+India,Karnataka,"PLFS Year (Jul - Jun), 2019",rural,Person,13.15
+India,Karnataka,"PLFS Year (Jul - Jun), 2019",urban,Male,19.1
+India,Karnataka,"PLFS Year (Jul - Jun), 2019",urban,Female,49.65
+India,Karnataka,"PLFS Year (Jul - Jun), 2019",urban,Person,17.27
+India,Karnataka,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,11.21
+India,Karnataka,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,40.65
+India,Karnataka,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,12.99
+India,Kerala,"PLFS Year (Jul - Jun), 2019",rural,Male,8.9
+India,Kerala,"PLFS Year (Jul - Jun), 2019",rural,Female,7.43
+India,Kerala,"PLFS Year (Jul - Jun), 2019",rural,Person,6.23
+India,Kerala,"PLFS Year (Jul - Jun), 2019",urban,Male,5.53
+India,Kerala,"PLFS Year (Jul - Jun), 2019",urban,Female,5.39
+India,Kerala,"PLFS Year (Jul - Jun), 2019",urban,Person,4.51
+India,Kerala,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,5.21
+India,Kerala,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,4.77
+India,Kerala,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,3.89
+India,Ladakh,"PLFS Year (Jul - Jun), 2019",rural,Male,82.4
+India,Ladakh,"PLFS Year (Jul - Jun), 2019",rural,Female,29.35
+India,Ladakh,"PLFS Year (Jul - Jun), 2019",rural,Person,70.02
+India,Ladakh,"PLFS Year (Jul - Jun), 2019",urban,Male,20.6
+India,Ladakh,"PLFS Year (Jul - Jun), 2019",urban,Female,0.0
+India,Ladakh,"PLFS Year (Jul - Jun), 2019",urban,Person,28.33
+India,Ladakh,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,73.49
+India,Ladakh,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,43.91
+India,Ladakh,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,69.91
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2019",rural,Male,72.33
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2019",rural,Female,29.66
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2019",rural,Person,24.73
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2019",urban,Male,10.7
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2019",urban,Female,54.18
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2019",urban,Person,17.98
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,7.65
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,29.29
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,14.64
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Male,10.85
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Female,15.59
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Person,10.33
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Male,9.47
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Female,13.52
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Person,9.49
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,7.76
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,11.6
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,7.52
+India,Maharashtra,"PLFS Year (Jul - Jun), 2019",rural,Male,10.31
+India,Maharashtra,"PLFS Year (Jul - Jun), 2019",rural,Female,13.62
+India,Maharashtra,"PLFS Year (Jul - Jun), 2019",rural,Person,9.13
+India,Maharashtra,"PLFS Year (Jul - Jun), 2019",urban,Male,11.41
+India,Maharashtra,"PLFS Year (Jul - Jun), 2019",urban,Female,12.54
+India,Maharashtra,"PLFS Year (Jul - Jun), 2019",urban,Person,11.3
+India,Maharashtra,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,7.84
+India,Maharashtra,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,9.26
+India,Maharashtra,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,7.5
+India,Manipur,"PLFS Year (Jul - Jun), 2019",rural,Male,16.97
+India,Manipur,"PLFS Year (Jul - Jun), 2019",rural,Female,19.2
+India,Manipur,"PLFS Year (Jul - Jun), 2019",rural,Person,14.32
+India,Manipur,"PLFS Year (Jul - Jun), 2019",urban,Male,3.85
+India,Manipur,"PLFS Year (Jul - Jun), 2019",urban,Female,22.63
+India,Manipur,"PLFS Year (Jul - Jun), 2019",urban,Person,9.68
+India,Manipur,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,11.38
+India,Manipur,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,15.51
+India,Manipur,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,10.31
+India,Meghalaya,"PLFS Year (Jul - Jun), 2019",rural,Male,24.12
+India,Meghalaya,"PLFS Year (Jul - Jun), 2019",rural,Female,34.68
+India,Meghalaya,"PLFS Year (Jul - Jun), 2019",rural,Person,20.3
+India,Meghalaya,"PLFS Year (Jul - Jun), 2019",urban,Male,12.54
+India,Meghalaya,"PLFS Year (Jul - Jun), 2019",urban,Female,4.17
+India,Meghalaya,"PLFS Year (Jul - Jun), 2019",urban,Person,5.13
+India,Meghalaya,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,11.64
+India,Meghalaya,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,14.03
+India,Meghalaya,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,9.01
+India,Mizoram,"PLFS Year (Jul - Jun), 2019",rural,Male,38.01
+India,Mizoram,"PLFS Year (Jul - Jun), 2019",rural,Female,42.01
+India,Mizoram,"PLFS Year (Jul - Jun), 2019",rural,Person,38.68
+India,Mizoram,"PLFS Year (Jul - Jun), 2019",urban,Male,14.69
+India,Mizoram,"PLFS Year (Jul - Jun), 2019",urban,Female,29.79
+India,Mizoram,"PLFS Year (Jul - Jun), 2019",urban,Person,19.29
+India,Mizoram,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,18.92
+India,Mizoram,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,24.04
+India,Mizoram,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,19.14
+India,Nagaland,"PLFS Year (Jul - Jun), 2019",rural,Male,13.04
+India,Nagaland,"PLFS Year (Jul - Jun), 2019",rural,Female,14.54
+India,Nagaland,"PLFS Year (Jul - Jun), 2019",rural,Person,11.29
+India,Nagaland,"PLFS Year (Jul - Jun), 2019",urban,Male,20.2
+India,Nagaland,"PLFS Year (Jul - Jun), 2019",urban,Female,7.95
+India,Nagaland,"PLFS Year (Jul - Jun), 2019",urban,Person,10.35
+India,Nagaland,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,11.02
+India,Nagaland,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,11.0
+India,Nagaland,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,8.85
+India,Odisha,"PLFS Year (Jul - Jun), 2019",rural,Male,7.63
+India,Odisha,"PLFS Year (Jul - Jun), 2019",rural,Female,18.31
+India,Odisha,"PLFS Year (Jul - Jun), 2019",rural,Person,8.01
+India,Odisha,"PLFS Year (Jul - Jun), 2019",urban,Male,18.93
+India,Odisha,"PLFS Year (Jul - Jun), 2019",urban,Female,22.42
+India,Odisha,"PLFS Year (Jul - Jun), 2019",urban,Person,14.84
+India,Odisha,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,7.11
+India,Odisha,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,14.86
+India,Odisha,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,7.09
+India,Puducherry,"PLFS Year (Jul - Jun), 2019",rural,Male,41.08
+India,Puducherry,"PLFS Year (Jul - Jun), 2019",rural,Female,49.57
+India,Puducherry,"PLFS Year (Jul - Jun), 2019",rural,Person,42.79
+India,Puducherry,"PLFS Year (Jul - Jun), 2019",urban,Male,19.53
+India,Puducherry,"PLFS Year (Jul - Jun), 2019",urban,Female,23.27
+India,Puducherry,"PLFS Year (Jul - Jun), 2019",urban,Person,14.78
+India,Puducherry,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,19.09
+India,Puducherry,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,22.91
+India,Puducherry,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,17.39
+India,Punjab,"PLFS Year (Jul - Jun), 2019",rural,Male,13.56
+India,Punjab,"PLFS Year (Jul - Jun), 2019",rural,Female,21.77
+India,Punjab,"PLFS Year (Jul - Jun), 2019",rural,Person,13.95
+India,Punjab,"PLFS Year (Jul - Jun), 2019",urban,Male,14.15
+India,Punjab,"PLFS Year (Jul - Jun), 2019",urban,Female,14.66
+India,Punjab,"PLFS Year (Jul - Jun), 2019",urban,Person,9.24
+India,Punjab,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,10.21
+India,Punjab,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,14.62
+India,Punjab,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,9.72
+India,Rajasthan,"PLFS Year (Jul - Jun), 2019",rural,Male,11.32
+India,Rajasthan,"PLFS Year (Jul - Jun), 2019",rural,Female,29.14
+India,Rajasthan,"PLFS Year (Jul - Jun), 2019",rural,Person,10.36
+India,Rajasthan,"PLFS Year (Jul - Jun), 2019",urban,Male,13.02
+India,Rajasthan,"PLFS Year (Jul - Jun), 2019",urban,Female,15.76
+India,Rajasthan,"PLFS Year (Jul - Jun), 2019",urban,Person,10.24
+India,Rajasthan,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,8.79
+India,Rajasthan,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,18.94
+India,Rajasthan,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,7.79
+India,Sikkim,"PLFS Year (Jul - Jun), 2019",rural,Male,40.99
+India,Sikkim,"PLFS Year (Jul - Jun), 2019",rural,Female,43.69
+India,Sikkim,"PLFS Year (Jul - Jun), 2019",rural,Person,36.91
+India,Sikkim,"PLFS Year (Jul - Jun), 2019",urban,Male,18.27
+India,Sikkim,"PLFS Year (Jul - Jun), 2019",urban,Female,26.74
+India,Sikkim,"PLFS Year (Jul - Jun), 2019",urban,Person,11.93
+India,Sikkim,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,30.48
+India,Sikkim,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,31.74
+India,Sikkim,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,26.94
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2019",rural,Male,8.15
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2019",rural,Female,13.26
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2019",rural,Person,7.9
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2019",urban,Male,9.72
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2019",urban,Female,10.81
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2019",urban,Person,8.13
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,6.25
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,8.77
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,5.69
+India,Telangana,"PLFS Year (Jul - Jun), 2019",rural,Male,12.01
+India,Telangana,"PLFS Year (Jul - Jun), 2019",rural,Female,25.95
+India,Telangana,"PLFS Year (Jul - Jun), 2019",rural,Person,12.61
+India,Telangana,"PLFS Year (Jul - Jun), 2019",urban,Male,9.16
+India,Telangana,"PLFS Year (Jul - Jun), 2019",urban,Female,6.74
+India,Telangana,"PLFS Year (Jul - Jun), 2019",urban,Person,8.12
+India,Telangana,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,7.91
+India,Telangana,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,15.49
+India,Telangana,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,8.29
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2019",rural,Male,43.2850000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2019",rural,Female,49.9100000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2019",rural,Person,26.0600000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2019",urban,Male,56.1400000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2019",urban,Female,105.5400000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2019",urban,Person,54.7500000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,45.3850000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,86.8350000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,43.8450000000000000000000
+India,Tripura,"PLFS Year (Jul - Jun), 2019",rural,Male,27.61
+India,Tripura,"PLFS Year (Jul - Jun), 2019",rural,Female,31.98
+India,Tripura,"PLFS Year (Jul - Jun), 2019",rural,Person,24.85
+India,Tripura,"PLFS Year (Jul - Jun), 2019",urban,Male,15.27
+India,Tripura,"PLFS Year (Jul - Jun), 2019",urban,Female,58.81
+India,Tripura,"PLFS Year (Jul - Jun), 2019",urban,Person,3.53
+India,Tripura,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,20.6
+India,Tripura,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,28.24
+India,Tripura,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,18.34
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Male,11.39
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Female,23.18
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2019",rural,Person,10.98
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Male,6.9
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Female,14.12
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2019",urban,Person,6.58
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,8.25
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,13.39
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,7.76
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2019",rural,Male,15.61
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2019",rural,Female,34.87
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2019",rural,Person,15.74
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2019",urban,Male,20.0
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2019",urban,Female,24.63
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2019",urban,Person,20.02
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,12.69
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,23.26
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,12.75
+India,West Bengal,"PLFS Year (Jul - Jun), 2019",rural,Male,9.84
+India,West Bengal,"PLFS Year (Jul - Jun), 2019",rural,Female,22.91
+India,West Bengal,"PLFS Year (Jul - Jun), 2019",rural,Person,10.03
+India,West Bengal,"PLFS Year (Jul - Jun), 2019",urban,Male,10.26
+India,West Bengal,"PLFS Year (Jul - Jun), 2019",urban,Female,15.05
+India,West Bengal,"PLFS Year (Jul - Jun), 2019",urban,Person,8.85
+India,West Bengal,"PLFS Year (Jul - Jun), 2019",rural + urban,Male,7.76
+India,West Bengal,"PLFS Year (Jul - Jun), 2019",rural + urban,Female,14.35
+India,West Bengal,"PLFS Year (Jul - Jun), 2019",rural + urban,Person,7.58
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2018",rural,Male,11.78
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2018",rural,Female,23.06
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2018",rural,Person,21.8
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2018",urban,Male,3.85
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2018",urban,Female,14.37
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2018",urban,Person,1.81
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,6.78
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,14.2
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,12.56
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Male,8.76
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Female,14.84
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Person,9.96
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Male,4.72
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Female,9.9
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Person,4.37
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,6.26
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,10.78
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,7.08
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Male,18.41
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Female,21.36
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Person,14.94
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Male,18.39
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Female,2.65
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Person,9.63
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,15.38
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,15.37
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,11.79
+India,Assam,"PLFS Year (Jul - Jun), 2018",rural,Male,12.22
+India,Assam,"PLFS Year (Jul - Jun), 2018",rural,Female,30.95
+India,Assam,"PLFS Year (Jul - Jun), 2018",rural,Person,11.96
+India,Assam,"PLFS Year (Jul - Jun), 2018",urban,Male,9.42
+India,Assam,"PLFS Year (Jul - Jun), 2018",urban,Female,25.75
+India,Assam,"PLFS Year (Jul - Jun), 2018",urban,Person,8.63
+India,Assam,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,10.45
+India,Assam,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,24.29
+India,Assam,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,10.05
+India,Bihar,"PLFS Year (Jul - Jun), 2018",rural,Male,8.76
+India,Bihar,"PLFS Year (Jul - Jun), 2018",rural,Female,46.31
+India,Bihar,"PLFS Year (Jul - Jun), 2018",rural,Person,8.76
+India,Bihar,"PLFS Year (Jul - Jun), 2018",urban,Male,12.48
+India,Bihar,"PLFS Year (Jul - Jun), 2018",urban,Female,39.64
+India,Bihar,"PLFS Year (Jul - Jun), 2018",urban,Person,14.19
+India,Bihar,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,8.03
+India,Bihar,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,32.42
+India,Bihar,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,8.0
+India,Chandigarh,"PLFS Year (Jul - Jun), 2018",rural,Male,0.0
+India,Chandigarh,"PLFS Year (Jul - Jun), 2018",rural,Female,33.44
+India,Chandigarh,"PLFS Year (Jul - Jun), 2018",rural,Person,80.32
+India,Chandigarh,"PLFS Year (Jul - Jun), 2018",urban,Male,19.91
+India,Chandigarh,"PLFS Year (Jul - Jun), 2018",urban,Female,14.93
+India,Chandigarh,"PLFS Year (Jul - Jun), 2018",urban,Person,18.81
+India,Chandigarh,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,20.46
+India,Chandigarh,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,14.45
+India,Chandigarh,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,18.99
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2018",rural,Male,11.83
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2018",rural,Female,46.11
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2018",rural,Person,11.66
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2018",urban,Male,14.06
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2018",urban,Female,25.67
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2018",urban,Person,12.79
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,9.77
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,26.46
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,9.11
+India,Delhi,"PLFS Year (Jul - Jun), 2018",rural,Male,74.0
+India,Delhi,"PLFS Year (Jul - Jun), 2018",rural,Female,0.0
+India,Delhi,"PLFS Year (Jul - Jun), 2018",rural,Person,80.48
+India,Delhi,"PLFS Year (Jul - Jun), 2018",urban,Male,16.36
+India,Delhi,"PLFS Year (Jul - Jun), 2018",urban,Female,32.29
+India,Delhi,"PLFS Year (Jul - Jun), 2018",urban,Person,18.35
+India,Delhi,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,16.38
+India,Delhi,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,32.38
+India,Delhi,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,18.39
+India,Goa,"PLFS Year (Jul - Jun), 2018",rural,Male,29.25
+India,Goa,"PLFS Year (Jul - Jun), 2018",rural,Female,15.21
+India,Goa,"PLFS Year (Jul - Jun), 2018",rural,Person,9.45
+India,Goa,"PLFS Year (Jul - Jun), 2018",urban,Male,35.43
+India,Goa,"PLFS Year (Jul - Jun), 2018",urban,Female,20.92
+India,Goa,"PLFS Year (Jul - Jun), 2018",urban,Person,15.51
+India,Goa,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,29.22
+India,Goa,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,13.26
+India,Goa,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,11.01
+India,Gujarat,"PLFS Year (Jul - Jun), 2018",rural,Male,12.48
+India,Gujarat,"PLFS Year (Jul - Jun), 2018",rural,Female,36.6
+India,Gujarat,"PLFS Year (Jul - Jun), 2018",rural,Person,11.55
+India,Gujarat,"PLFS Year (Jul - Jun), 2018",urban,Male,23.33
+India,Gujarat,"PLFS Year (Jul - Jun), 2018",urban,Female,20.67
+India,Gujarat,"PLFS Year (Jul - Jun), 2018",urban,Person,21.1
+India,Gujarat,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,12.19
+India,Gujarat,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,24.51
+India,Gujarat,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,11.03
+India,Haryana,"PLFS Year (Jul - Jun), 2018",rural,Male,12.12
+India,Haryana,"PLFS Year (Jul - Jun), 2018",rural,Female,26.73
+India,Haryana,"PLFS Year (Jul - Jun), 2018",rural,Person,11.49
+India,Haryana,"PLFS Year (Jul - Jun), 2018",urban,Male,9.36
+India,Haryana,"PLFS Year (Jul - Jun), 2018",urban,Female,25.66
+India,Haryana,"PLFS Year (Jul - Jun), 2018",urban,Person,11.92
+India,Haryana,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,9.1
+India,Haryana,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,19.15
+India,Haryana,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,8.95
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Male,13.02
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Female,17.19
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Person,11.4
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Male,23.08
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Female,18.39
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Person,14.34
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,11.86
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,16.02
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,10.37
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2018",rural,Male,14.44
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2018",rural,Female,19.46
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2018",rural,Person,11.32
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2018",urban,Male,10.95
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2018",urban,Female,5.98
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2018",urban,Person,4.93
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,11.17
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,11.84
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,7.76
+India,Jharkhand,"PLFS Year (Jul - Jun), 2018",rural,Male,17.46
+India,Jharkhand,"PLFS Year (Jul - Jun), 2018",rural,Female,56.17
+India,Jharkhand,"PLFS Year (Jul - Jun), 2018",rural,Person,18.29
+India,Jharkhand,"PLFS Year (Jul - Jun), 2018",urban,Male,15.44
+India,Jharkhand,"PLFS Year (Jul - Jun), 2018",urban,Female,41.0
+India,Jharkhand,"PLFS Year (Jul - Jun), 2018",urban,Person,18.22
+India,Jharkhand,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,13.31
+India,Jharkhand,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,35.41
+India,Jharkhand,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,13.96
+India,Karnataka,"PLFS Year (Jul - Jun), 2018",rural,Male,16.05
+India,Karnataka,"PLFS Year (Jul - Jun), 2018",rural,Female,30.76
+India,Karnataka,"PLFS Year (Jul - Jun), 2018",rural,Person,14.26
+India,Karnataka,"PLFS Year (Jul - Jun), 2018",urban,Male,2.03
+India,Karnataka,"PLFS Year (Jul - Jun), 2018",urban,Female,21.03
+India,Karnataka,"PLFS Year (Jul - Jun), 2018",urban,Person,6.11
+India,Karnataka,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,10.05
+India,Karnataka,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,18.29
+India,Karnataka,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,8.83
+India,Kerala,"PLFS Year (Jul - Jun), 2018",rural,Male,9.0
+India,Kerala,"PLFS Year (Jul - Jun), 2018",rural,Female,8.66
+India,Kerala,"PLFS Year (Jul - Jun), 2018",rural,Person,7.18
+India,Kerala,"PLFS Year (Jul - Jun), 2018",urban,Male,11.63
+India,Kerala,"PLFS Year (Jul - Jun), 2018",urban,Female,4.67
+India,Kerala,"PLFS Year (Jul - Jun), 2018",urban,Person,5.62
+India,Kerala,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,7.22
+India,Kerala,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,5.05
+India,Kerala,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,4.64
+India,Ladakh,"PLFS Year (Jul - Jun), 2018",rural,Male,14.44
+India,Ladakh,"PLFS Year (Jul - Jun), 2018",rural,Female,19.46
+India,Ladakh,"PLFS Year (Jul - Jun), 2018",rural,Person,11.32
+India,Ladakh,"PLFS Year (Jul - Jun), 2018",urban,Male,10.95
+India,Ladakh,"PLFS Year (Jul - Jun), 2018",urban,Female,5.98
+India,Ladakh,"PLFS Year (Jul - Jun), 2018",urban,Person,4.93
+India,Ladakh,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,11.17
+India,Ladakh,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,11.84
+India,Ladakh,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,7.76
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2018",rural,Male,25.87
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2018",rural,Female,12.37
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2018",rural,Person,22.28
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2018",urban,Male,10.36
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2018",urban,Female,24.66
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2018",urban,Person,19.04
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,11.63
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,21.13
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,14.81
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Male,11.91
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Female,18.88
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Person,11.15
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Male,7.31
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Female,17.24
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Person,6.73
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,8.48
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,15.9
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,8.2
+India,Maharashtra,"PLFS Year (Jul - Jun), 2018",rural,Male,8.87
+India,Maharashtra,"PLFS Year (Jul - Jun), 2018",rural,Female,13.35
+India,Maharashtra,"PLFS Year (Jul - Jun), 2018",rural,Person,8.92
+India,Maharashtra,"PLFS Year (Jul - Jun), 2018",urban,Male,4.07
+India,Maharashtra,"PLFS Year (Jul - Jun), 2018",urban,Female,22.37
+India,Maharashtra,"PLFS Year (Jul - Jun), 2018",urban,Person,6.75
+India,Maharashtra,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,5.73
+India,Maharashtra,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,12.0
+India,Maharashtra,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,6.05
+India,Manipur,"PLFS Year (Jul - Jun), 2018",rural,Male,22.82
+India,Manipur,"PLFS Year (Jul - Jun), 2018",rural,Female,17.72
+India,Manipur,"PLFS Year (Jul - Jun), 2018",rural,Person,16.52
+India,Manipur,"PLFS Year (Jul - Jun), 2018",urban,Male,1.25
+India,Manipur,"PLFS Year (Jul - Jun), 2018",urban,Female,16.18
+India,Manipur,"PLFS Year (Jul - Jun), 2018",urban,Person,4.47
+India,Manipur,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,15.22
+India,Manipur,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,14.91
+India,Manipur,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,12.06
+India,Meghalaya,"PLFS Year (Jul - Jun), 2018",rural,Male,26.84
+India,Meghalaya,"PLFS Year (Jul - Jun), 2018",rural,Female,28.38
+India,Meghalaya,"PLFS Year (Jul - Jun), 2018",rural,Person,16.87
+India,Meghalaya,"PLFS Year (Jul - Jun), 2018",urban,Male,29.14
+India,Meghalaya,"PLFS Year (Jul - Jun), 2018",urban,Female,21.7
+India,Meghalaya,"PLFS Year (Jul - Jun), 2018",urban,Person,18.76
+India,Meghalaya,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,20.73
+India,Meghalaya,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,19.64
+India,Meghalaya,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,12.93
+India,Mizoram,"PLFS Year (Jul - Jun), 2018",rural,Male,38.28
+India,Mizoram,"PLFS Year (Jul - Jun), 2018",rural,Female,11.57
+India,Mizoram,"PLFS Year (Jul - Jun), 2018",rural,Person,21.51
+India,Mizoram,"PLFS Year (Jul - Jun), 2018",urban,Male,5.73
+India,Mizoram,"PLFS Year (Jul - Jun), 2018",urban,Female,9.71
+India,Mizoram,"PLFS Year (Jul - Jun), 2018",urban,Person,3.94
+India,Mizoram,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,16.1
+India,Mizoram,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,7.95
+India,Mizoram,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,9.41
+India,Nagaland,"PLFS Year (Jul - Jun), 2018",rural,Male,11.13
+India,Nagaland,"PLFS Year (Jul - Jun), 2018",rural,Female,11.94
+India,Nagaland,"PLFS Year (Jul - Jun), 2018",rural,Person,9.27
+India,Nagaland,"PLFS Year (Jul - Jun), 2018",urban,Male,17.59
+India,Nagaland,"PLFS Year (Jul - Jun), 2018",urban,Female,10.81
+India,Nagaland,"PLFS Year (Jul - Jun), 2018",urban,Person,10.98
+India,Nagaland,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,9.39
+India,Nagaland,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,9.65
+India,Nagaland,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,7.2
+India,Odisha,"PLFS Year (Jul - Jun), 2018",rural,Male,8.1
+India,Odisha,"PLFS Year (Jul - Jun), 2018",rural,Female,16.5
+India,Odisha,"PLFS Year (Jul - Jun), 2018",rural,Person,8.05
+India,Odisha,"PLFS Year (Jul - Jun), 2018",urban,Male,11.89
+India,Odisha,"PLFS Year (Jul - Jun), 2018",urban,Female,9.97
+India,Odisha,"PLFS Year (Jul - Jun), 2018",urban,Person,6.88
+India,Odisha,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,7.06
+India,Odisha,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,11.43
+India,Odisha,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,6.61
+India,Puducherry,"PLFS Year (Jul - Jun), 2018",rural,Male,15.32
+India,Puducherry,"PLFS Year (Jul - Jun), 2018",rural,Female,23.49
+India,Puducherry,"PLFS Year (Jul - Jun), 2018",rural,Person,12.71
+India,Puducherry,"PLFS Year (Jul - Jun), 2018",urban,Male,15.96
+India,Puducherry,"PLFS Year (Jul - Jun), 2018",urban,Female,43.27
+India,Puducherry,"PLFS Year (Jul - Jun), 2018",urban,Person,16.29
+India,Puducherry,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,11.2
+India,Puducherry,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,24.18
+India,Puducherry,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,10.56
+India,Punjab,"PLFS Year (Jul - Jun), 2018",rural,Male,10.87
+India,Punjab,"PLFS Year (Jul - Jun), 2018",rural,Female,18.41
+India,Punjab,"PLFS Year (Jul - Jun), 2018",rural,Person,9.12
+India,Punjab,"PLFS Year (Jul - Jun), 2018",urban,Male,4.21
+India,Punjab,"PLFS Year (Jul - Jun), 2018",urban,Female,28.8
+India,Punjab,"PLFS Year (Jul - Jun), 2018",urban,Person,6.48
+India,Punjab,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,7.06
+India,Punjab,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,16.24
+India,Punjab,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,6.15
+India,Rajasthan,"PLFS Year (Jul - Jun), 2018",rural,Male,8.86
+India,Rajasthan,"PLFS Year (Jul - Jun), 2018",rural,Female,22.95
+India,Rajasthan,"PLFS Year (Jul - Jun), 2018",rural,Person,8.72
+India,Rajasthan,"PLFS Year (Jul - Jun), 2018",urban,Male,8.93
+India,Rajasthan,"PLFS Year (Jul - Jun), 2018",urban,Female,24.97
+India,Rajasthan,"PLFS Year (Jul - Jun), 2018",urban,Person,4.61
+India,Rajasthan,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,6.92
+India,Rajasthan,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,16.87
+India,Rajasthan,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,6.32
+India,Sikkim,"PLFS Year (Jul - Jun), 2018",rural,Male,29.04
+India,Sikkim,"PLFS Year (Jul - Jun), 2018",rural,Female,50.81
+India,Sikkim,"PLFS Year (Jul - Jun), 2018",rural,Person,11.81
+India,Sikkim,"PLFS Year (Jul - Jun), 2018",urban,Male,47.5
+India,Sikkim,"PLFS Year (Jul - Jun), 2018",urban,Female,39.95
+India,Sikkim,"PLFS Year (Jul - Jun), 2018",urban,Person,39.05
+India,Sikkim,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,24.91
+India,Sikkim,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,32.68
+India,Sikkim,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,16.11
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2018",rural,Male,8.62
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2018",rural,Female,10.25
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2018",rural,Person,7.53
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2018",urban,Male,3.87
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2018",urban,Female,10.78
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2018",urban,Person,5.71
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,5.45
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,7.49
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,5.1
+India,Telangana,"PLFS Year (Jul - Jun), 2018",rural,Male,12.36
+India,Telangana,"PLFS Year (Jul - Jun), 2018",rural,Female,17.73
+India,Telangana,"PLFS Year (Jul - Jun), 2018",rural,Person,10.43
+India,Telangana,"PLFS Year (Jul - Jun), 2018",urban,Male,11.74
+India,Telangana,"PLFS Year (Jul - Jun), 2018",urban,Female,15.82
+India,Telangana,"PLFS Year (Jul - Jun), 2018",urban,Person,13.52
+India,Telangana,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,8.7
+India,Telangana,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,12.04
+India,Telangana,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,8.28
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2018",rural,Male,52.3600000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2018",rural,Female,0.000000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2018",rural,Person,48.5650000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2018",urban,Male,81.8600000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2018",urban,Female,76.9150000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2018",urban,Person,53.2000000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,45.3450000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,60.2400000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,45.5700000000000000000000
+India,Tripura,"PLFS Year (Jul - Jun), 2018",rural,Male,24.37
+India,Tripura,"PLFS Year (Jul - Jun), 2018",rural,Female,16.01
+India,Tripura,"PLFS Year (Jul - Jun), 2018",rural,Person,17.47
+India,Tripura,"PLFS Year (Jul - Jun), 2018",urban,Male,5.86
+India,Tripura,"PLFS Year (Jul - Jun), 2018",urban,Female,17.62
+India,Tripura,"PLFS Year (Jul - Jun), 2018",urban,Person,7.98
+India,Tripura,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,18.6
+India,Tripura,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,13.16
+India,Tripura,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,13.48
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Male,6.17
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Female,28.06
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2018",rural,Person,6.12
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Male,6.5
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Female,19.71
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2018",urban,Person,5.95
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,4.69
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,18.41
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,4.55
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2018",rural,Male,15.92
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2018",rural,Female,13.62
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2018",rural,Person,10.46
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2018",urban,Male,4.46
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2018",urban,Female,15.06
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2018",urban,Person,8.28
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,9.99
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,11.1
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,7.28
+India,West Bengal,"PLFS Year (Jul - Jun), 2018",rural,Male,12.44
+India,West Bengal,"PLFS Year (Jul - Jun), 2018",rural,Female,22.73
+India,West Bengal,"PLFS Year (Jul - Jun), 2018",rural,Person,11.91
+India,West Bengal,"PLFS Year (Jul - Jun), 2018",urban,Male,3.55
+India,West Bengal,"PLFS Year (Jul - Jun), 2018",urban,Female,6.25
+India,West Bengal,"PLFS Year (Jul - Jun), 2018",urban,Person,2.71
+India,West Bengal,"PLFS Year (Jul - Jun), 2018",rural + urban,Male,8.85
+India,West Bengal,"PLFS Year (Jul - Jun), 2018",rural + urban,Female,15.54
+India,West Bengal,"PLFS Year (Jul - Jun), 2018",rural + urban,Person,8.4
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2017",rural,Male,28.16
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2017",rural,Female,22.77
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2017",rural,Person,18.0
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2017",urban,Male,12.93
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2017",urban,Female,13.14
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2017",urban,Person,10.24
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,21.29
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,12.77
+India,Andaman and Nicobar Islands,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,10.94
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Male,12.12
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Female,14.1
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Person,9.93
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Male,7.31
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Female,12.55
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Person,7.12
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,8.89
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,10.26
+India,Andhra Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,7.23
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Male,14.85
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Female,34.27
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Person,13.4
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Male,8.98
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Female,20.2
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Person,13.07
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,11.52
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,27.51
+India,Arunachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,10.78
+India,Assam,"PLFS Year (Jul - Jun), 2017",rural,Male,12.06
+India,Assam,"PLFS Year (Jul - Jun), 2017",rural,Female,13.11
+India,Assam,"PLFS Year (Jul - Jun), 2017",rural,Person,9.57
+India,Assam,"PLFS Year (Jul - Jun), 2017",urban,Male,16.6
+India,Assam,"PLFS Year (Jul - Jun), 2017",urban,Female,12.97
+India,Assam,"PLFS Year (Jul - Jun), 2017",urban,Person,14.02
+India,Assam,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,11.27
+India,Assam,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,11.59
+India,Assam,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,8.86
+India,Bihar,"PLFS Year (Jul - Jun), 2017",rural,Male,10.28
+India,Bihar,"PLFS Year (Jul - Jun), 2017",rural,Female,37.91
+India,Bihar,"PLFS Year (Jul - Jun), 2017",rural,Person,10.25
+India,Bihar,"PLFS Year (Jul - Jun), 2017",urban,Male,3.1
+India,Bihar,"PLFS Year (Jul - Jun), 2017",urban,Female,53.05
+India,Bihar,"PLFS Year (Jul - Jun), 2017",urban,Person,4.04
+India,Bihar,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,9.2
+India,Bihar,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,31.91
+India,Bihar,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,9.15
+India,Chandigarh,"PLFS Year (Jul - Jun), 2017",rural,Male,22.28
+India,Chandigarh,"PLFS Year (Jul - Jun), 2017",rural,Female,59.64
+India,Chandigarh,"PLFS Year (Jul - Jun), 2017",rural,Person,16.49
+India,Chandigarh,"PLFS Year (Jul - Jun), 2017",urban,Male,13.29
+India,Chandigarh,"PLFS Year (Jul - Jun), 2017",urban,Female,50.13
+India,Chandigarh,"PLFS Year (Jul - Jun), 2017",urban,Person,33.84
+India,Chandigarh,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,12.81
+India,Chandigarh,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,49.95
+India,Chandigarh,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,33.2
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2017",rural,Male,11.68
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2017",rural,Female,32.1
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2017",rural,Person,13.02
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2017",urban,Male,5.65
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2017",urban,Female,19.27
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2017",urban,Person,10.12
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,9.45
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,23.14
+India,Chhattisgarh,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,10.28
+India,Delhi,"PLFS Year (Jul - Jun), 2017",rural,Male,34.37
+India,Delhi,"PLFS Year (Jul - Jun), 2017",rural,Female,0.0
+India,Delhi,"PLFS Year (Jul - Jun), 2017",rural,Person,32.69
+India,Delhi,"PLFS Year (Jul - Jun), 2017",urban,Male,7.0
+India,Delhi,"PLFS Year (Jul - Jun), 2017",urban,Female,34.14
+India,Delhi,"PLFS Year (Jul - Jun), 2017",urban,Person,2.32
+India,Delhi,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,6.98
+India,Delhi,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,34.09
+India,Delhi,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,2.28
+India,Goa,"PLFS Year (Jul - Jun), 2017",rural,Male,30.11
+India,Goa,"PLFS Year (Jul - Jun), 2017",rural,Female,7.89
+India,Goa,"PLFS Year (Jul - Jun), 2017",rural,Person,13.62
+India,Goa,"PLFS Year (Jul - Jun), 2017",urban,Male,14.91
+India,Goa,"PLFS Year (Jul - Jun), 2017",urban,Female,21.14
+India,Goa,"PLFS Year (Jul - Jun), 2017",urban,Person,13.96
+India,Goa,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,16.57
+India,Goa,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,14.37
+India,Goa,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,9.93
+India,Gujarat,"PLFS Year (Jul - Jun), 2017",rural,Male,16.62
+India,Gujarat,"PLFS Year (Jul - Jun), 2017",rural,Female,22.66
+India,Gujarat,"PLFS Year (Jul - Jun), 2017",rural,Person,11.36
+India,Gujarat,"PLFS Year (Jul - Jun), 2017",urban,Male,8.43
+India,Gujarat,"PLFS Year (Jul - Jun), 2017",urban,Female,33.09
+India,Gujarat,"PLFS Year (Jul - Jun), 2017",urban,Person,8.99
+India,Gujarat,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,11.06
+India,Gujarat,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,18.81
+India,Gujarat,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,8.07
+India,Haryana,"PLFS Year (Jul - Jun), 2017",rural,Male,11.28
+India,Haryana,"PLFS Year (Jul - Jun), 2017",rural,Female,51.21
+India,Haryana,"PLFS Year (Jul - Jun), 2017",rural,Person,12.5
+India,Haryana,"PLFS Year (Jul - Jun), 2017",urban,Male,9.33
+India,Haryana,"PLFS Year (Jul - Jun), 2017",urban,Female,13.21
+India,Haryana,"PLFS Year (Jul - Jun), 2017",urban,Person,4.48
+India,Haryana,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,8.65
+India,Haryana,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,31.51
+India,Haryana,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,9.01
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Male,14.29
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Female,21.48
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Person,13.69
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Male,18.84
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Female,20.18
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Person,16.95
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,12.82
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,18.72
+India,Himachal Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,12.18
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2017",rural,Male,9.51
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2017",rural,Female,18.48
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2017",rural,Person,8.42
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2017",urban,Male,18.79
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2017",urban,Female,5.78
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2017",urban,Person,8.59
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,8.49
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,10.19
+India,Jammu and Kashmir,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,6.44
+India,Jharkhand,"PLFS Year (Jul - Jun), 2017",rural,Male,10.95
+India,Jharkhand,"PLFS Year (Jul - Jun), 2017",rural,Female,41.17
+India,Jharkhand,"PLFS Year (Jul - Jun), 2017",rural,Person,10.51
+India,Jharkhand,"PLFS Year (Jul - Jun), 2017",urban,Male,11.6
+India,Jharkhand,"PLFS Year (Jul - Jun), 2017",urban,Female,30.7
+India,Jharkhand,"PLFS Year (Jul - Jun), 2017",urban,Person,14.66
+India,Jharkhand,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,9.15
+India,Jharkhand,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,28.0
+India,Jharkhand,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,8.91
+India,Karnataka,"PLFS Year (Jul - Jun), 2017",rural,Male,12.72
+India,Karnataka,"PLFS Year (Jul - Jun), 2017",rural,Female,26.93
+India,Karnataka,"PLFS Year (Jul - Jun), 2017",rural,Person,12.28
+India,Karnataka,"PLFS Year (Jul - Jun), 2017",urban,Male,10.35
+India,Karnataka,"PLFS Year (Jul - Jun), 2017",urban,Female,13.86
+India,Karnataka,"PLFS Year (Jul - Jun), 2017",urban,Person,10.3
+India,Karnataka,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,8.49
+India,Karnataka,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,15.59
+India,Karnataka,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,8.18
+India,Kerala,"PLFS Year (Jul - Jun), 2017",rural,Male,9.73
+India,Kerala,"PLFS Year (Jul - Jun), 2017",rural,Female,8.15
+India,Kerala,"PLFS Year (Jul - Jun), 2017",rural,Person,6.86
+India,Kerala,"PLFS Year (Jul - Jun), 2017",urban,Male,4.98
+India,Kerala,"PLFS Year (Jul - Jun), 2017",urban,Female,7.24
+India,Kerala,"PLFS Year (Jul - Jun), 2017",urban,Person,5.95
+India,Kerala,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,5.61
+India,Kerala,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,5.49
+India,Kerala,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,4.63
+India,Ladakh,"PLFS Year (Jul - Jun), 2017",rural,Male,9.51
+India,Ladakh,"PLFS Year (Jul - Jun), 2017",rural,Female,18.48
+India,Ladakh,"PLFS Year (Jul - Jun), 2017",rural,Person,8.42
+India,Ladakh,"PLFS Year (Jul - Jun), 2017",urban,Male,18.79
+India,Ladakh,"PLFS Year (Jul - Jun), 2017",urban,Female,5.78
+India,Ladakh,"PLFS Year (Jul - Jun), 2017",urban,Person,8.59
+India,Ladakh,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,8.49
+India,Ladakh,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,10.19
+India,Ladakh,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,6.44
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2017",rural,Male,60.93
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2017",rural,Female,15.28
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2017",rural,Person,43.74
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2017",urban,Male,41.75
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2017",urban,Female,11.37
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2017",urban,Person,24.45
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,34.63
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,12.8
+India,Lakshadweep,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,22.07
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Male,10.83
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Female,19.29
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Person,11.24
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Male,8.01
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Female,10.88
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Person,7.87
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,7.95
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,15.47
+India,Madhya Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,8.39
+India,Maharashtra,"PLFS Year (Jul - Jun), 2017",rural,Male,8.38
+India,Maharashtra,"PLFS Year (Jul - Jun), 2017",rural,Female,13.99
+India,Maharashtra,"PLFS Year (Jul - Jun), 2017",rural,Person,8.5
+India,Maharashtra,"PLFS Year (Jul - Jun), 2017",urban,Male,6.73
+India,Maharashtra,"PLFS Year (Jul - Jun), 2017",urban,Female,15.04
+India,Maharashtra,"PLFS Year (Jul - Jun), 2017",urban,Person,8.62
+India,Maharashtra,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,5.47
+India,Maharashtra,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,10.27
+India,Maharashtra,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,6.06
+India,Manipur,"PLFS Year (Jul - Jun), 2017",rural,Male,8.32
+India,Manipur,"PLFS Year (Jul - Jun), 2017",rural,Female,13.42
+India,Manipur,"PLFS Year (Jul - Jun), 2017",rural,Person,7.18
+India,Manipur,"PLFS Year (Jul - Jun), 2017",urban,Male,5.92
+India,Manipur,"PLFS Year (Jul - Jun), 2017",urban,Female,18.05
+India,Manipur,"PLFS Year (Jul - Jun), 2017",urban,Person,9.33
+India,Manipur,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,6.1
+India,Manipur,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,11.28
+India,Manipur,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,5.8
+India,Meghalaya,"PLFS Year (Jul - Jun), 2017",rural,Male,58.7
+India,Meghalaya,"PLFS Year (Jul - Jun), 2017",rural,Female,33.14
+India,Meghalaya,"PLFS Year (Jul - Jun), 2017",rural,Person,29.23
+India,Meghalaya,"PLFS Year (Jul - Jun), 2017",urban,Male,26.89
+India,Meghalaya,"PLFS Year (Jul - Jun), 2017",urban,Female,34.94
+India,Meghalaya,"PLFS Year (Jul - Jun), 2017",urban,Person,21.48
+India,Meghalaya,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,26.25
+India,Meghalaya,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,27.08
+India,Meghalaya,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,21.82
+India,Mizoram,"PLFS Year (Jul - Jun), 2017",rural,Male,25.05
+India,Mizoram,"PLFS Year (Jul - Jun), 2017",rural,Female,26.2
+India,Mizoram,"PLFS Year (Jul - Jun), 2017",rural,Person,19.23
+India,Mizoram,"PLFS Year (Jul - Jun), 2017",urban,Male,6.86
+India,Mizoram,"PLFS Year (Jul - Jun), 2017",urban,Female,10.72
+India,Mizoram,"PLFS Year (Jul - Jun), 2017",urban,Person,6.97
+India,Mizoram,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,9.93
+India,Mizoram,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,10.99
+India,Mizoram,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,8.29
+India,Nagaland,"PLFS Year (Jul - Jun), 2017",rural,Male,16.09
+India,Nagaland,"PLFS Year (Jul - Jun), 2017",rural,Female,14.86
+India,Nagaland,"PLFS Year (Jul - Jun), 2017",rural,Person,13.64
+India,Nagaland,"PLFS Year (Jul - Jun), 2017",urban,Male,3.45
+India,Nagaland,"PLFS Year (Jul - Jun), 2017",urban,Female,15.46
+India,Nagaland,"PLFS Year (Jul - Jun), 2017",urban,Person,9.04
+India,Nagaland,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,12.26
+India,Nagaland,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,11.03
+India,Nagaland,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,10.17
+India,Odisha,"PLFS Year (Jul - Jun), 2017",rural,Male,7.76
+India,Odisha,"PLFS Year (Jul - Jun), 2017",rural,Female,19.81
+India,Odisha,"PLFS Year (Jul - Jun), 2017",rural,Person,8.11
+India,Odisha,"PLFS Year (Jul - Jun), 2017",urban,Male,3.73
+India,Odisha,"PLFS Year (Jul - Jun), 2017",urban,Female,23.28
+India,Odisha,"PLFS Year (Jul - Jun), 2017",urban,Person,8.45
+India,Odisha,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,6.89
+India,Odisha,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,16.27
+India,Odisha,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,7.09
+India,Puducherry,"PLFS Year (Jul - Jun), 2017",rural,Male,31.2
+India,Puducherry,"PLFS Year (Jul - Jun), 2017",rural,Female,28.73
+India,Puducherry,"PLFS Year (Jul - Jun), 2017",rural,Person,40.3
+India,Puducherry,"PLFS Year (Jul - Jun), 2017",urban,Male,5.9
+India,Puducherry,"PLFS Year (Jul - Jun), 2017",urban,Female,30.83
+India,Puducherry,"PLFS Year (Jul - Jun), 2017",urban,Person,12.11
+India,Puducherry,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,9.53
+India,Puducherry,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,24.15
+India,Puducherry,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,13.52
+India,Punjab,"PLFS Year (Jul - Jun), 2017",rural,Male,13.51
+India,Punjab,"PLFS Year (Jul - Jun), 2017",rural,Female,16.8
+India,Punjab,"PLFS Year (Jul - Jun), 2017",rural,Person,12.21
+India,Punjab,"PLFS Year (Jul - Jun), 2017",urban,Male,9.22
+India,Punjab,"PLFS Year (Jul - Jun), 2017",urban,Female,19.24
+India,Punjab,"PLFS Year (Jul - Jun), 2017",urban,Person,11.69
+India,Punjab,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,9.29
+India,Punjab,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,12.68
+India,Punjab,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,8.81
+India,Rajasthan,"PLFS Year (Jul - Jun), 2017",rural,Male,8.22
+India,Rajasthan,"PLFS Year (Jul - Jun), 2017",rural,Female,26.18
+India,Rajasthan,"PLFS Year (Jul - Jun), 2017",rural,Person,8.58
+India,Rajasthan,"PLFS Year (Jul - Jun), 2017",urban,Male,10.36
+India,Rajasthan,"PLFS Year (Jul - Jun), 2017",urban,Female,17.52
+India,Rajasthan,"PLFS Year (Jul - Jun), 2017",urban,Person,9.51
+India,Rajasthan,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,6.91
+India,Rajasthan,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,17.15
+India,Rajasthan,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,6.99
+India,Sikkim,"PLFS Year (Jul - Jun), 2017",rural,Male,32.8
+India,Sikkim,"PLFS Year (Jul - Jun), 2017",rural,Female,46.48
+India,Sikkim,"PLFS Year (Jul - Jun), 2017",rural,Person,32.81
+India,Sikkim,"PLFS Year (Jul - Jun), 2017",urban,Male,22.33
+India,Sikkim,"PLFS Year (Jul - Jun), 2017",urban,Female,6.82
+India,Sikkim,"PLFS Year (Jul - Jun), 2017",urban,Person,8.92
+India,Sikkim,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,22.28
+India,Sikkim,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,31.68
+India,Sikkim,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,21.81
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2017",rural,Male,6.75
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2017",rural,Female,8.82
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2017",rural,Person,5.58
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2017",urban,Male,7.94
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2017",urban,Female,3.61
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2017",urban,Person,5.97
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,5.18
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,5.79
+India,Tamil Nadu,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,4.12
+India,Telangana,"PLFS Year (Jul - Jun), 2017",rural,Male,10.72
+India,Telangana,"PLFS Year (Jul - Jun), 2017",rural,Female,17.66
+India,Telangana,"PLFS Year (Jul - Jun), 2017",rural,Person,8.41
+India,Telangana,"PLFS Year (Jul - Jun), 2017",urban,Male,15.04
+India,Telangana,"PLFS Year (Jul - Jun), 2017",urban,Female,24.51
+India,Telangana,"PLFS Year (Jul - Jun), 2017",urban,Person,16.92
+India,Telangana,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,9.24
+India,Telangana,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,14.89
+India,Telangana,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,9.35
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2017",rural,Male,37.3250000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2017",rural,Female,69.4400000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2017",rural,Person,48.0250000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2017",urban,Male,113.6500000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2017",urban,Female,38.9700000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2017",urban,Person,91.6550000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,68.8600000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,103.1800000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,54.3450000000000000000000
+India,Tripura,"PLFS Year (Jul - Jun), 2017",rural,Male,19.29
+India,Tripura,"PLFS Year (Jul - Jun), 2017",rural,Female,29.61
+India,Tripura,"PLFS Year (Jul - Jun), 2017",rural,Person,19.46
+India,Tripura,"PLFS Year (Jul - Jun), 2017",urban,Male,8.03
+India,Tripura,"PLFS Year (Jul - Jun), 2017",urban,Female,24.55
+India,Tripura,"PLFS Year (Jul - Jun), 2017",urban,Person,14.3
+India,Tripura,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,16.06
+India,Tripura,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,20.94
+India,Tripura,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,15.2
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Male,6.31
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Female,21.48
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2017",rural,Person,6.3
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Male,7.05
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Female,25.63
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2017",urban,Person,6.79
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,5.05
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,16.9
+India,Uttar Pradesh,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,4.96
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2017",rural,Male,14.23
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2017",rural,Female,27.23
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2017",rural,Person,12.61
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2017",urban,Male,9.59
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2017",urban,Female,16.47
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2017",urban,Person,10.94
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,10.37
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,17.97
+India,Uttarakhand,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,9.22
+India,West Bengal,"PLFS Year (Jul - Jun), 2017",rural,Male,9.86
+India,West Bengal,"PLFS Year (Jul - Jun), 2017",rural,Female,23.45
+India,West Bengal,"PLFS Year (Jul - Jun), 2017",rural,Person,10.12
+India,West Bengal,"PLFS Year (Jul - Jun), 2017",urban,Male,7.58
+India,West Bengal,"PLFS Year (Jul - Jun), 2017",urban,Female,13.79
+India,West Bengal,"PLFS Year (Jul - Jun), 2017",urban,Person,7.72
+India,West Bengal,"PLFS Year (Jul - Jun), 2017",rural + urban,Male,6.87
+India,West Bengal,"PLFS Year (Jul - Jun), 2017",rural + urban,Female,14.83
+India,West Bengal,"PLFS Year (Jul - Jun), 2017",rural + urban,Person,6.96

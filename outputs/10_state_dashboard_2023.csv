@@ -1,0 +1,37 @@
+State_Rank,State,Cohort,LFPR,WPR,UR,LFPR_Change,Predicted_Improving_Next_Year,Prediction_Probability_Pct,Focus_Areas
+1,Delhi,Low Participation,11.108333333333334,10.808333333333332,2.158333333333333,-0.27,No,43.5,Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities.
+2,Puducherry,Low Participation,33.15,29.941666666666663,10.991666666666667,-1.67,No,41.7,Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities.
+3,Karnataka,Low Participation,33.541666666666664,32.09166666666667,4.883333333333334,6.4,No,31.9,Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities.
+4,Jharkhand,Low Participation,34.0,33.358333333333334,3.9,-1.41,No,37.5,Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities.
+5,Madhya Pradesh,Low Participation,34.358333333333334,33.50833333333333,3.8666666666666663,2.83,No,32.9,Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities.
+6,Tamil Nadu,Low Participation,34.416666666666664,31.6,9.891666666666667,-0.66,No,39.3,Investigate participation barriers; strengthen foundational skills and access to suitable employment opportunities.
+7,Kerala,At Risk,34.65833333333333,28.433333333333337,19.6,0.59,No,43.7,Investigate weakening momentum and examine sectoral and employment-quality changes.
+8,Maharashtra,At Risk,35.19166666666667,33.791666666666664,4.85,2.23,No,33.9,Investigate weakening momentum and examine sectoral and employment-quality changes.
+9,Odisha,At Risk,36.74166666666667,34.85,6.199999999999999,9.03,No,34.3,Investigate weakening momentum and examine sectoral and employment-quality changes.
+10,Telangana,At Risk,37.325,34.833333333333336,8.625,-0.31,No,40.0,Investigate weakening momentum and examine sectoral and employment-quality changes.
+11,Rajasthan,At Risk,37.45,35.275,8.141666666666667,6.13,No,41.9,Investigate weakening momentum and examine sectoral and employment-quality changes.
+12,Gujarat,At Risk,37.49166666666667,36.65,2.7999999999999994,6.62,No,39.0,Investigate weakening momentum and examine sectoral and employment-quality changes.
+13,Mizoram,At Risk,38.075,36.075,6.516666666666666,7.62,No,41.0,Investigate weakening momentum and examine sectoral and employment-quality changes.
+14,Andhra Pradesh,At Risk,39.63333333333333,36.641666666666666,8.674999999999999,2.73,No,48.1,Investigate weakening momentum and examine sectoral and employment-quality changes.
+15,Lakshadweep,Growing but Constrained,15.841666666666669,12.266666666666666,23.141666666666666,-1.21,Yes,55.9,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+16,Bihar,Growing but Constrained,15.891666666666666,15.141666666666666,6.8,7.43,Yes,53.2,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+17,Haryana,Growing but Constrained,18.3,16.724999999999998,9.458333333333334,1.0,Yes,57.0,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+18,Assam,Growing but Constrained,20.3,18.116666666666667,9.433333333333332,-4.47,Yes,73.1,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+19,Uttar Pradesh,Growing but Constrained,22.59166666666667,21.59166666666667,6.433333333333334,2.92,Yes,60.6,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+20,Chandigarh,Growing but Constrained,23.316666666666663,21.75,5.891666666666667,7.14,Yes,52.4,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+21,Punjab,Growing but Constrained,26.041666666666668,22.791666666666668,12.675,3.6,Yes,55.7,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+22,Manipur,Growing but Constrained,27.608333333333334,25.525,8.766666666666667,6.57,Yes,60.5,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+23,Tripura,Growing but Constrained,29.108333333333334,28.316666666666663,3.525,7.53,Yes,52.2,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+24,West Bengal,Growing but Constrained,29.875,28.816666666666663,3.891666666666667,4.73,Yes,55.6,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+25,Uttarakhand,Growing but Constrained,30.53333333333333,28.266666666666666,9.141666666666667,3.62,Yes,66.0,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+26,Goa,Growing but Constrained,30.59166666666667,23.383333333333336,22.525,8.35,Yes,61.6,"Identify factors associated with positive momentum and examine skills, access and employment opportunities."
+27,The Dadra and Nagar Haveli and Daman and Diu,High Potential,38.225,35.300000000000004,7.258333333333333,-1.57,Yes,55.5,"Sustain positive momentum while examining employment quality, retention and advancement."
+28,Jammu and Kashmir,High Potential,40.333333333333336,35.13333333333333,15.858333333333334,2.37,Yes,54.1,"Sustain positive momentum while examining employment quality, retention and advancement."
+29,Arunachal Pradesh,High Potential,44.48333333333333,40.31666666666667,12.016666666666666,19.62,Yes,55.1,"Sustain positive momentum while examining employment quality, retention and advancement."
+30,Ladakh,High Potential,45.74166666666667,39.208333333333336,18.158333333333335,8.89,Yes,62.3,"Sustain positive momentum while examining employment quality, retention and advancement."
+31,Meghalaya,High Potential,48.06666666666666,41.391666666666666,15.433333333333335,8.61,Yes,78.4,"Sustain positive momentum while examining employment quality, retention and advancement."
+32,Chhattisgarh,High Potential,48.18333333333333,45.916666666666664,6.383333333333333,6.45,Yes,86.7,"Sustain positive momentum while examining employment quality, retention and advancement."
+33,Andaman and Nicobar Islands,High Potential,48.708333333333336,35.85,26.233333333333334,7.01,Yes,82.0,"Sustain positive momentum while examining employment quality, retention and advancement."
+34,Nagaland,High Potential,51.53333333333333,47.791666666666664,8.441666666666666,9.1,Yes,88.5,"Sustain positive momentum while examining employment quality, retention and advancement."
+35,Sikkim,High Potential,54.44166666666666,51.35,5.983333333333333,7.71,Yes,87.0,"Sustain positive momentum while examining employment quality, retention and advancement."
+36,Himachal Pradesh,High Potential,58.291666666666664,50.75833333333333,16.3,5.77,Yes,90.8,"Sustain positive momentum while examining employment quality, retention and advancement."

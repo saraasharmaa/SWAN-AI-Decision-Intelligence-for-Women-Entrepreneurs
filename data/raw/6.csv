@@ -1,0 +1,41 @@
+Country,Year,Region,"Number Of Accounts (A/Cs) (UOM:Number), Scaling Factor:1","Disbursement Amount (UOM:INR(IndianRupees)), Scaling Factor:10000000","Sanction Amount  (UOM:INR(IndianRupees)), Scaling Factor:10000000","Share Of Number Of Accounts (A/Cs) (UOM:%(Percentage)), Scaling Factor:1","Share Of Disbursement Amount (UOM:%(Percentage)), Scaling Factor:1","Share Of Sanction Amount (UOM:%(Percentage)), Scaling Factor:1","Growth In Disbursement Amount Over Previous Year (UOM:%(Percentage)), Scaling Factor:1","Growth In Sanction Amount Over Previous Year (UOM:%(Percentage)), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2023",North,13808409,127636.44,,20.7,24,,14,
+India,"Financial Year (Apr - Mar), 2023",East,22739462,148233.29,,34.1,27.8,,19,
+India,"Financial Year (Apr - Mar), 2023",North East,1184785,11525.26,,1.8,2.2,,10,
+India,"Financial Year (Apr - Mar), 2023",South,18310948,156416.84,,27.4,29.4,,25,
+India,"Financial Year (Apr - Mar), 2023",West,10733409,88546.49,,16.1,16.6,,12,
+India,"Financial Year (Apr - Mar), 2022",North,13557609,111573.17,,21.76,24.77,,38.07,
+India,"Financial Year (Apr - Mar), 2022",East,21009744,124667.22,,33.72,27.68,,30.34,
+India,"Financial Year (Apr - Mar), 2022",North East,1084117,10486.13,,1.74,2.33,,27.08,
+India,"Financial Year (Apr - Mar), 2022",South,15871449,124650.13,,25.47,27.67,,37.69,
+India,"Financial Year (Apr - Mar), 2022",West,10787679,79047,,17.31,17.55,,40.74,
+India,"Financial Year (Apr - Mar), 2021",North,11545805,80808,82700,0.2146,24.38,24,,5
+India,"Financial Year (Apr - Mar), 2021",East,18724571,95645,98637,34.81,28.86,29,,13
+India,"Financial Year (Apr - Mar), 2021",North East,1174574,8251,8682,2.18,2.49,3,,-33
+India,"Financial Year (Apr - Mar), 2021",South,13329413,90532,91765,24.78,27.32,27,,2
+India,"Financial Year (Apr - Mar), 2021",West,9021163,56166,57327,16.77,16.95,17,,2
+India,"Financial Year (Apr - Mar), 2020",North,10405478,,78555,21,,24,,-4
+India,"Financial Year (Apr - Mar), 2020",East,17088159,,85472,34,,27,,1
+India,"Financial Year (Apr - Mar), 2020",North East,1681086,,11511,3,,4,,6
+India,"Financial Year (Apr - Mar), 2020",South,13083599,,90325,26,,28,,-9
+India,"Financial Year (Apr - Mar), 2020",West,8476724,,55897,17,,17,,-9
+India,"Financial Year (Apr - Mar), 2019",North,12456705,,82045,20,,25,,10
+India,"Financial Year (Apr - Mar), 2019",East,19589404,,84574,31,,25,,6
+India,"Financial Year (Apr - Mar), 2019",North East,2278699,,10824,4,,3,,-18
+India,"Financial Year (Apr - Mar), 2019",South,17454720,,98767,28,,29,,2
+India,"Financial Year (Apr - Mar), 2019",West,10468078,,61285,17,,18,,6
+India,"Financial Year (Apr - Mar), 2018",North,11292193,,74437,19,,23,,23
+India,"Financial Year (Apr - Mar), 2018",East,18658660,,79581,31,,25,,25
+India,"Financial Year (Apr - Mar), 2018",North East,3060244,,13145,5,,4,,4
+India,"Financial Year (Apr - Mar), 2018",South,17315948,,96930,29,,30,,30
+India,"Financial Year (Apr - Mar), 2018",West,9543273,,57629,16,,18,,18
+India,"Financial Year (Apr - Mar), 2017",North,8464083,,60535.36,18,,24,,45
+India,"Financial Year (Apr - Mar), 2017",East,12764868,,48744.33,27,,19,,13
+India,"Financial Year (Apr - Mar), 2017",North East,4395809,,18553.8,8,,7,,179
+India,"Financial Year (Apr - Mar), 2017",South,14464973,,76259.92,30,,30,,44
+India,"Financial Year (Apr - Mar), 2017",West,8040860,,49583.68,17,,20,,38
+India,"Financial Year (Apr - Mar), 2016",North,6667731,,41884.86,17,,23,,
+India,"Financial Year (Apr - Mar), 2016",East,12838524,,43115.35,32,,24,,
+India,"Financial Year (Apr - Mar), 2016",North East,1599339,,6650.34,4,,4,,
+India,"Financial Year (Apr - Mar), 2016",South,11430144,,52876.65,29,,29,,
+India,"Financial Year (Apr - Mar), 2016",West,7165309,,36001.35,18,,20,,

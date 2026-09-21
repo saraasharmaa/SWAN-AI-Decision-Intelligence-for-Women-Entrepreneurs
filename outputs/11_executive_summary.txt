@@ -1,0 +1,55 @@
+WOMEN'S ECONOMIC EMPOWERMENT ML PIPELINE
+PHASE 6: EXECUTIVE SUMMARY
+Generated: 2026-08-30 23:33:01
+
+PURPOSE
+Classify whether female LFPR is likely to improve by at least
+5 percentage points in the following year and group states into
+analytical cohorts.
+
+DATA
+States: 36
+Analytical period: 2017-2022
+Prediction target year: 2023
+
+LFPR OVERVIEW
+Average female LFPR in 2017: 22.92%
+Average female LFPR in 2022: 34.59%
+Change: +11.67 percentage points.
+
+MODEL PERFORMANCE
+Random Forest: Accuracy=0.611, Precision=0.455, Recall=0.833, F1=0.588, ROC-AUC=0.552
+
+Predicted to improve in 2023:
+22 of 36 states.
+
+COHORT SUMMARY
+                 Cohort  Num_States  Pct_States  Avg_LFPR  Avg_WPR  Avg_UR  Pct_Predicted_Improving
+      Low Participation           6        16.7     30.10    28.55    5.95                      0.0
+                At Risk           8        22.2     37.07    34.57    8.18                      0.0
+Growing but Constrained          12        33.3     24.17    21.89   10.14                    100.0
+         High Potential          10        27.8     47.80    42.30   13.21                    100.0
+
+TOP RANDOM FOREST FEATURES
+   - NonAgriculture_Pct: 0.157
+   - LFPR: 0.155
+   - UR: 0.130
+   - WPR: 0.124
+   - LFPR_Lag1: 0.123
+
+INTERPRETATION
+The model identifies historical predictive associations. It does not
+establish that any feature causes female LFPR to increase.
+
+LIMITATIONS
+- The time-based test set contains 36 state-year observations.
+- Education and vocational-training measures are national-level.
+- PMMY growth is treated as a national temporal feature.
+- The 2026 Udyam snapshot is excluded from historical prediction features.
+- Childcare, social norms, safety, household decisions, wages,
+  migration and other important factors are not fully represented.
+
+RECOMMENDED USE
+Use state rankings and cohorts to support further investigation.
+Combine the model with qualitative research, local expertise and
+causal evaluation before making policy decisions.

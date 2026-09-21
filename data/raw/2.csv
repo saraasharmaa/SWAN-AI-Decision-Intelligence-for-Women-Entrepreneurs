@@ -1,0 +1,10 @@
+Country,Year,Average Loan Size,"Amount Disbursed (UOM:INR(IndianRupees)), Scaling Factor:10000000","Amount Sanctioned (UOM:INR(IndianRupees)), Scaling Factor:10000000","Number Of Loan Account (UOM:Number), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2023",79721.80,532358.35,,66777013
+India,"Financial Year (Apr - Mar), 2022",72286.85,450423.66,,62310598
+India,"Financial Year (Apr - Mar), 2021",61604.04,331402.20,,53795526
+India,"Financial Year (Apr - Mar), 2020",63419.52,,321759.25,50735046
+India,"Financial Year (Apr - Mar), 2019",54218.31,,337496,62247606
+India,"Financial Year (Apr - Mar), 2018",53736,,321723,59870318
+India,"Financial Year (Apr - Mar), 2017",52739,,253677.1,48130593
+India,"Financial Year (Apr - Mar), 2016",> 45472,,180528.54,39701047
+India,"Financial Year (Apr - Mar), 2015",39405.28,,137449.27,34880924

@@ -1,0 +1,41 @@
+WOMEN'S ECONOMIC EMPOWERMENT ML PIPELINE
+PHASE 5: CAVEATS AND LIMITATIONS
+Generated: 2026-09-21 11:34:00
+
+1. CORRELATION, NOT CAUSATION
+The model identifies historical associations with next-year female LFPR
+improvement. Predictions and feature importance do not establish causation.
+
+2. PREDICTION TARGET
+The target is whether female LFPR increases by at least 5 percentage
+points in the following year. This is a classification problem, not a
+long-term LFPR forecast.
+
+3. TEMPORAL VALIDATION
+The current pipeline trains through 2021 and tests on 2022 observations.
+The test set contains 36 state-year observations.
+
+4. DATA LIMITATIONS
+Important factors such as childcare, social norms, safety, household
+decisions, wages, migration and employment quality are not fully
+represented in the supplied datasets.
+
+5. NATIONAL-LEVEL FEATURES
+Education and vocational-training measures used here are national-level
+measures broadcast across states. PMMY growth is also treated as a
+national temporal feature. They are not state-specific measurements.
+
+6. UDYAM DATA
+The 2026 Udyam snapshot is excluded from historical prediction features
+because using future information would create data leakage.
+
+7. MODEL PERFORMANCE
+Use outputs/04_model_metrics.csv for the actual performance of the
+corrected model. The small time-based test set requires cautious
+interpretation of metrics.
+
+8. POLICY USE
+Cohorts are analytical groupings for investigation and prioritisation.
+They are not automatic policy prescriptions. Causal evaluation,
+qualitative research and domain expertise are required before
+implementing interventions.
